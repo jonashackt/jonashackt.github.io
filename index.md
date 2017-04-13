@@ -30,6 +30,7 @@
 
 2016-02: [Spring Boot & Apache CXF – How to SOAP in 2016](https://blog.codecentric.de/en/2016/02/spring-boot-apache-cxf/)
 
+> Award: codecentric AG Blog Awards 2016 "Most Comments" ([german version](https://blog.codecentric.de/2016/02/spring-boot-apache-cxf/))
 
 ### Socials:
 <span class="icon icon--github">{% include icon-twitter.svg %}</span> [twitter.com/jonashackt](https://twitter.com/jonashackt) 
@@ -44,7 +45,7 @@
 
 ### About me
 
-I´am a [Spring Boot](https://projects.spring.io/spring-boot/) using guy, that loves [Ansible](https://www.ansible.com/) & is a CI/CD enthusiast. 
+I'am a [Spring Boot](https://projects.spring.io/spring-boot/) using guy, that loves [Ansible](https://www.ansible.com/) & is a CI/CD enthusiast. 
 He´s building more & more with [Docker](https://www.docker.com/) & [Spring Cloud](http://projects.spring.io/spring-cloud/). And I always try to write practical & comprehensible blog posts (as you can see above :) ).
 
 I have been a SOA/Integration software architect & quit the job after successful implementing inside whole company.  
