@@ -33,9 +33,12 @@
 
 ### About me
 
-I´am a Spring Boot using guy, that loves Ansible & is a CI/CD enthusiast. 
-He´s building more & more with Docker & Spring Cloud.
-Have been SOA architect & quit the job after successful implementing inside whole company.  
-Why? Because those are just concepts & Culture eat´s software architecture for breakfast!
+I´am a [Spring Boot](https://projects.spring.io/spring-boot/) using guy, that loves [Ansible](https://www.ansible.com/) & is a CI/CD enthusiast. 
+He´s building more & more with [Docker](https://www.docker.com/) & [Spring Cloud](http://projects.spring.io/spring-cloud/). And I always try to write practical & comprehensible blog posts (as you can see above :) ).
 
-I love Mountainbiking and beeing a husband & dad.
+I have been a SOA/Integration software architect & quit the job after successful implementing inside whole company.  
+Why? Because those are just concepts & __culture eat´s software architecture for breakfast!__
+
+I love Mountainbiking, Surfing and beeing a proud Husband & Dad.
+
+Together with some nice folks I lately founded the [Java User Group Thüringen (JUG th)](https://twitter.com/jug_th)
