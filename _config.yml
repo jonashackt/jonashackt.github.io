@@ -25,7 +25,7 @@ github_username:  jonashackt
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot #jekyll-theme-slate #jekyll-theme-architect #jekyll-theme-architect #jekyll-theme-midnight #jekyll-theme-minimal #jekyll-theme-merlot
+theme: jekyll-theme-minimal #jekyll-theme-merlot #jekyll-theme-slate #jekyll-theme-architect #jekyll-theme-architect #jekyll-theme-midnight #jekyll-theme-minimal 
 gems:
   - jekyll-feed
 exclude:

@@ -8,12 +8,19 @@
 ### Blog posts:
 
 2017-04: [Running Spring Boot Apps on Docker Windows Containers with Ansible: A Complete Guide incl Packer, Vagrant & Powershell](https://blog.codecentric.de/en/2017/04/ansible-docker-windows-containers-spring-boot/)
+> Mentions: [This Week in Spring - April 11th, 2017](https://spring.io/blog/2017/04/11/this-week-in-spring-april-11th-2017) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 172](http://www.baeldung.com/java-web-weekly-172) ([baeldung.com](http://www.baeldung.com/category/weekly-review/))
 
 2017-01: [Running Spring Boot Apps on Windows with Ansible](https://blog.codecentric.de/en/2017/01/ansible-windows-spring-boot/)
 
+> Mentions: [Java Web Weekly, Issue 158](http://www.baeldung.com/java-web-weekly-158) ([baeldung.com](http://www.baeldung.com/category/weekly-review/))
+
 2016-10: [Spring Boot & Apache CXF – SOAP on steroids fueled by cxf-spring-boot-starter](https://blog.codecentric.de/en/2016/10/spring-boot-apache-cxf-spring-boot-starter/)
 
+> Mentions: [This Week in Spring - October 18, 2016](https://spring.io/blog/2016/10/18/this-week-in-spring-october-18-2016) ([spring.io/blog](https://spring.io/blog))
+
 2016-07: [Spring Boot & Apache CXF – Logging & Monitoring with Logback, Elasticsearch, Logstash & Kibana](https://blog.codecentric.de/en/2016/07/spring-boot-apache-cxf-logging-monitoring-logback-elasticsearch-logstash-kibana/)
+
+> Mentions: [Java Web Weekly, Issue 135](http://www.baeldung.com/java-web-weekly-135) ([baeldung.com](http://www.baeldung.com/category/weekly-review/))
 
 2016-06: [Spring Boot & Apache CXF – XML validation and custom SOAP faults](https://blog.codecentric.de/en/2016/06/spring-boot-apache-cxf-xml-validation-custom-soap-faults/)
 
