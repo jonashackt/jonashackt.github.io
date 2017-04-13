@@ -36,6 +36,8 @@
 
 <span class="icon icon--github">{% include icon-github.svg %}</span> [github.com/jonashackt](https://github.com/jonashackt)
 
+[stackoverflow.com/users/4964553/jonashackt](http://stackoverflow.com/users/4964553/jonashackt)
+
 [linkedin.com/in/jonashecht/](https://www.linkedin.com/in/jonashecht/)
 
 [xing.com/profile/Jonas_Hecht](https://www.xing.com/profile/Jonas_Hecht)
@@ -46,7 +48,7 @@ I´am a [Spring Boot](https://projects.spring.io/spring-boot/) using guy, that l
 He´s building more & more with [Docker](https://www.docker.com/) & [Spring Cloud](http://projects.spring.io/spring-cloud/). And I always try to write practical & comprehensible blog posts (as you can see above :) ).
 
 I have been a SOA/Integration software architect & quit the job after successful implementing inside whole company.  
-Why? Because those are just concepts & __culture eat´s software architecture for breakfast!__
+Why? Because those are just concepts & __culture eat's software architecture for breakfast!__
 
 I love Mountainbiking, Surfing and beeing a proud Husband & Dad.
 
