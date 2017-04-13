@@ -45,8 +45,8 @@
 
 ### About me
 
-I'am a [Spring Boot](https://projects.spring.io/spring-boot/) using guy, that loves [Ansible](https://www.ansible.com/) & is a CI/CD enthusiast. 
-He´s building more & more with [Docker](https://www.docker.com/) & [Spring Cloud](http://projects.spring.io/spring-cloud/). And I always try to write practical & comprehensible blog posts (as you can see above :) ).
+I'am a [Spring Boot](https://projects.spring.io/spring-boot/) using guy, who loves [Ansible](https://www.ansible.com/) & is a CI/CD enthusiast. 
+I currently build more & more with [Docker](https://www.docker.com/) & [Spring Cloud](http://projects.spring.io/spring-cloud/). And I always try to write practical & comprehensible blog posts (as you can see above :) ).
 
 I have been a SOA/Integration software architect & quit the job after successful implementing inside whole company.  
 Why? Because those are just concepts & __culture eat's software architecture for breakfast!__
