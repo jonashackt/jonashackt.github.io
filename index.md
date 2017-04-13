@@ -26,6 +26,8 @@
 
 2016-06: [Spring Boot & Apache CXF – Testing SOAP Web Services](https://blog.codecentric.de/en/2016/06/spring-boot-apache-cxf-testing-soap-webservices/)
 
+> Mentions: [Java Web Weekly, Issue 128](http://www.baeldung.com/java-web-weekly-128) ([baeldung.com](http://www.baeldung.com/category/weekly-review/))
+
 2016-02: [Spring Boot & Apache CXF – How to SOAP in 2016](https://blog.codecentric.de/en/2016/02/spring-boot-apache-cxf/)
 
 
