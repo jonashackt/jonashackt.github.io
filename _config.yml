@@ -16,7 +16,7 @@
 title: jonashackt.github.io
 email: jonas.hecht[at]codecentric.de
 description: > # this means to ignore newlines until "baseurl:"
-  Spring Boot, Ansible, Java, Docker, Continuous Delivery, Mountainbiking, Dad
+  Spring Boot & <a href="https://opensourcecontributo.rs/user/jonashackt" target="_blank">Open Source</a>, Ansible, Java, Docker, Continuous Delivery, Mountainbiking, Dad, maintainer of <a href="https://github.com/codecentric/cxf-spring-boot-starter" target="_blank">cxf-spring-boot-starter</a>
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
