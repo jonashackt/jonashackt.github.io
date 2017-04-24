@@ -5,6 +5,8 @@
 #layout: home
 ---
 
+Together with some nice folks I lately founded the [Java User Group Thüringen (JUG th)](https://twitter.com/jug_th) - come and meet us on an upcoming [Meetup](https://www.meetup.com/de-DE/jug_th/)!
+
 ### Blog posts:
 
 2017-04: [Running Spring Boot Apps on Docker Windows Containers with Ansible: A Complete Guide incl Packer, Vagrant & Powershell](https://blog.codecentric.de/en/2017/04/ansible-docker-windows-containers-spring-boot/)
@@ -32,6 +34,16 @@
 
 > Award: codecentric AG Blog Awards 2016 "Most Comments" ([german version](https://blog.codecentric.de/2016/02/spring-boot-apache-cxf/))
 
+### Talks:
+
+2017-06: Talking about *"Mit Windows, Docker & Ansible die Puppen tanzen lassen - Erfahrungen aus dem real life Einsatz von Docker Windows Containern im Kundenprojekt"* @ [Meetup 01: Docker Docker Docker - Azure Thüringen Meetup](https://www.meetup.com/de-DE/Azure-Thueringen-Meetup/events/239034049/)
+
+2017-06: Talking about *"Mit Windows, Docker & Ansible die Puppen tanzen lassen - Erfahrungen aus dem real life Einsatz von Docker Windows Containern im Kundenprojekt"* @ [codecentric Meetup Berlin](https://www.meetup.com/de-DE/codecentric-Berlin/)
+
+2017-01: Giving a lecture about *"Real life software engineering"* @ [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/medien/professuren/intelligente-softwaresysteme/)
+
+2016-08: Talking about *"Spring Boot quickstart ...with a little bit Apache CXF"* @ [Provinzial Community Tag 2016](https://www.slideshare.net/JonasHecht1/spring-boot-quickstart)
+
 ### Socials:
 <span class="icon icon--github">{% include icon-twitter.svg %}</span> [twitter.com/jonashackt](https://twitter.com/jonashackt) 
 
@@ -43,6 +55,8 @@
 
 [xing.com/profile/Jonas_Hecht](https://www.xing.com/profile/Jonas_Hecht)
 
+[strava.com profile](https://www.strava.com/athletes/16787462)
+
 ### About me
 
 I'am a [Spring Boot](https://projects.spring.io/spring-boot/) using guy, who loves [Ansible](https://www.ansible.com/) & is a CI/CD enthusiast. 
@@ -52,5 +66,3 @@ I have been a SOA/Integration software architect & quit the job after successful
 Why? Because those are just concepts & __culture eat's software architecture for breakfast!__
 
 I love Mountainbiking, Surfing and beeing a proud Husband & Dad.
-
-Together with some nice folks I lately founded the [Java User Group Thüringen (JUG th)](https://twitter.com/jug_th)
