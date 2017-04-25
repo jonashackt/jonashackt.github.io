@@ -32,7 +32,7 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 2016-02: [Spring Boot & Apache CXF – How to SOAP in 2016](https://blog.codecentric.de/en/2016/02/spring-boot-apache-cxf/)
 
-> Award: codecentric AG Blog Awards 2016 "Most Comments" ([german version](https://blog.codecentric.de/2016/02/spring-boot-apache-cxf/))
+> Award: codecentric AG Blog Awards 2016 "Most Comments" ([german version](https://blog.codecentric.de/2016/02/spring-boot-apache-cxf/)) & second most-clicked post in 2016
 
 ### Talks:
 
