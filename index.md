@@ -5,9 +5,11 @@
 #layout: home
 ---
 
-Together with some nice folks I lately founded the [Java User Group Thüringen (JUG th)](https://twitter.com/jug_th) - come and meet us on an upcoming [Meetup](https://www.meetup.com/de-DE/jug_th/)! Here's [some more information](http://slides.com/jonashackt/jug_th#/).
+Together with some nice folks I lately founded the [Java User Group Thüringen (JUG th)](https://twitter.com/jug_th) - come and meet us on an upcoming [Meetup](https://www.meetup.com/de-DE/jug_th/)! Here's [some more information](http://slides.com/jonashackt/jug_th#/). See an [interview on facebook](https://www.facebook.com/ITnetThueringen/videos/1187163134727424/)!
 
 ### Blog posts:
+
+2017-05: [Scaling Spring Boot Apps on Docker Windows Containers with Ansible: A Complete Guide incl Spring Cloud Netflix and Docker Compose](https://blog.codecentric.de/en/2017/05/ansible-docker-windows-containers-scaling-spring-cloud-netflix-docker-compose/)
 
 2017-04: [Running Spring Boot Apps on Docker Windows Containers with Ansible: A Complete Guide incl Packer, Vagrant & Powershell](https://blog.codecentric.de/en/2017/04/ansible-docker-windows-containers-spring-boot/)
 > Mentions: [This Week in Spring - April 11th, 2017](https://spring.io/blog/2017/04/11/this-week-in-spring-april-11th-2017) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 172](http://www.baeldung.com/java-web-weekly-172) ([baeldung.com](http://www.baeldung.com/category/weekly-review/))
@@ -35,6 +37,8 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 > Award: codecentric AG Blog Awards 2016 "Most Comments" ([german version](https://blog.codecentric.de/2016/02/spring-boot-apache-cxf/)) & second most-clicked post in 2016
 
 ### Talks:
+
+2017-06: Talking about *"Mit Windows, Docker & Ansible die Puppen tanzen lassen - Erfahrungen aus dem real life Einsatz von Docker Windows Containern im Kundenprojekt"* @ [Herbstcampus in Nürnberg](https://www.herbstcampus.de/veranstaltung-5909-mit-ansible-die-puppen-tanzen-lassen-%E2%80%93-spring-boot-apps-in-docker-windows-containern.html?id=5909)
 
 2017-06: Talking about *"Mit Windows, Docker & Ansible die Puppen tanzen lassen - Erfahrungen aus dem real life Einsatz von Docker Windows Containern im Kundenprojekt"* @ [Meetup 01: Docker Docker Docker - Azure Thüringen Meetup](https://www.meetup.com/de-DE/Azure-Thueringen-Meetup/events/239034049/)
 
