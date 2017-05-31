@@ -11,6 +11,8 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 2017-05: [Scaling Spring Boot Apps on Docker Windows Containers with Ansible: A Complete Guide incl Spring Cloud Netflix and Docker Compose](https://blog.codecentric.de/en/2017/05/ansible-docker-windows-containers-scaling-spring-cloud-netflix-docker-compose/)
 
+> Mentions: [This Week in Spring - May 30th, 2017](https://spring.io/blog/2017/05/30/this-week-in-spring-may-30th-2017) ([spring.io/blog](https://spring.io/blog))
+
 2017-04: [Running Spring Boot Apps on Docker Windows Containers with Ansible: A Complete Guide incl Packer, Vagrant & Powershell](https://blog.codecentric.de/en/2017/04/ansible-docker-windows-containers-spring-boot/)
 > Mentions: [This Week in Spring - April 11th, 2017](https://spring.io/blog/2017/04/11/this-week-in-spring-april-11th-2017) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 172](http://www.baeldung.com/java-web-weekly-172) ([baeldung.com](http://www.baeldung.com/category/weekly-review/))
 
