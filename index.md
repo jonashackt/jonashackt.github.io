@@ -44,7 +44,7 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 2017-06: Talking about *"Mit Windows, Docker & Ansible die Puppen tanzen lassen - Erfahrungen aus dem real life Einsatz von Docker Windows Containern im Kundenprojekt"* @ [Meetup 01: Docker Docker Docker - Azure Thüringen Meetup](https://www.meetup.com/de-DE/Azure-Thueringen-Meetup/events/239034049/)
 
-2017-06: Talking about *"Running Spring Boot Apps on Docker Windows Containers with Ansible - Integrating Legacy Windows Apps with Microservices"* @ [codecentric Meetup Berlin](https://www.meetup.com/de-DE/codecentric-Berlin/)
+2017-06: Talking about *"Running Spring Boot Apps on Docker Windows Containers with Ansible - Integrating Legacy Windows Apps with Microservices"* @ [codecentric Meetup Berlin](https://www.meetup.com/de-DE/codecentric-Berlin/events/238644774/)
 
 2017-01: Giving a lecture about *"Real life software engineering"* @ [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/medien/professuren/intelligente-softwaresysteme/)
 
