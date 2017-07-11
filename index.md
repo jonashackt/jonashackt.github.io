@@ -61,6 +61,8 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 <span class="icon icon--github">{% include icon-github.svg %}</span> [github.com/jonashackt](https://github.com/jonashackt)
 
+[my OpenSource contribution overview](https://opensourcecontributo.rs/user/jonashackt)
+
 [stackoverflow.com/users/4964553/jonashackt](http://stackoverflow.com/users/4964553/jonashackt)
 
 [linkedin.com/in/jonashecht/](https://www.linkedin.com/in/jonashecht/)
