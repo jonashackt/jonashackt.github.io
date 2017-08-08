@@ -40,6 +40,8 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 ### Talks:
 
+2017-10: Talking about *"Mit Ansible die Puppen tanzen lassen – Spring Boot Apps in Docker Windows Container"* @ [JCON 2017 in Düsseldorf](http://jcon.one/de/) [Sessionplan](https://jcon.xdev.cloud/)
+
 2017-09: Talking about *"Mit Windows, Docker & Ansible die Puppen tanzen lassen - Erfahrungen aus dem real life Einsatz von Docker Windows Containern im Kundenprojekt"* on "IT-Automation for Java Developers"-Day @ [Java User Group Thüringen](https://www.meetup.com/de-DE/jugthde/events/241399678/)
 
 2017-09: Talking about *"Mit Windows, Docker & Ansible die Puppen tanzen lassen - Erfahrungen aus dem real life Einsatz von Docker Windows Containern im Kundenprojekt"* @ [Herbstcampus in Nürnberg](https://www.herbstcampus.de/veranstaltung-5909-mit-ansible-die-puppen-tanzen-lassen-%E2%80%93-spring-boot-apps-in-docker-windows-containern.html?id=5909)
