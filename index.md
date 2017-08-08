@@ -7,7 +7,10 @@
 
 Together with some nice folks I lately founded the [Java User Group Thüringen (JUG th)](https://twitter.com/jug_th) - come and meet us on an upcoming [Meetup](https://www.meetup.com/de-DE/jug_th/)! Here's [some more information](http://slides.com/jonashackt/jug_th#/). See an [interview on facebook](https://www.facebook.com/ITnetThueringen/videos/1187163134727424/)!
 
+
 ### Blog posts:
+
+2017-07: [Ansible zaubert Spring Boot Apps auch auf Windows](https://blog.codecentric.de/2017/07/ansible-windows-spring-boot/)
 
 2017-05: [Scaling Spring Boot Apps on Docker Windows Containers with Ansible: A Complete Guide incl Spring Cloud Netflix and Docker Compose](https://blog.codecentric.de/en/2017/05/ansible-docker-windows-containers-scaling-spring-cloud-netflix-docker-compose/)
 
@@ -38,6 +41,7 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 > Award: codecentric AG Blog Awards 2016 "Most Comments" ([german version](https://blog.codecentric.de/2016/02/spring-boot-apache-cxf/)) & second most-clicked post in 2016
 
+
 ### Talks:
 
 2017-10: Talking about *"Mit Ansible die Puppen tanzen lassen – Spring Boot Apps in Docker Windows Container"* @ [JCON 2017 in Düsseldorf](http://jcon.one/de/) [Sessionplan](https://jcon.xdev.cloud/)
@@ -57,6 +61,12 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 2017-01: Giving a lecture about *"Real life software engineering"* @ [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/medien/professuren/intelligente-softwaresysteme/)
 
 2016-08: Talking about *"Spring Boot quickstart ...with a little bit Apache CXF"* @ [Provinzial Community Tag 2016](https://www.slideshare.net/JonasHecht1/spring-boot-quickstart)
+
+
+### Printed stuff:
+
+2016-09: Article about "Spring Boot und Apache CXF - SOAP ohne XML?" published in the [Softwerker Vol. 8](https://www.codecentric.de/2016/09/09/softwerker-vol-8-ist-da/) by [codecentric](https://www.codecentric.de/)
+
 
 ### Socials:
 <span class="icon icon--github">{% include icon-twitter.svg %}</span> [twitter.com/jonashackt](https://twitter.com/jonashackt) 
