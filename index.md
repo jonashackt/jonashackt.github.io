@@ -42,9 +42,11 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 > Award: codecentric AG Blog Awards 2016 "Most Comments" ([german version](https://blog.codecentric.de/2016/02/spring-boot-apache-cxf/)) & second most-clicked post in 2016
 
 
-### Talks:
+### Talks & Workshops:
 
 2017-10: Talking about *"Mit Ansible die Puppen tanzen lassen – Spring Boot Apps in Docker Windows Container"* @ [JCON 2017 in Düsseldorf](http://jcon.one/de/) [Sessionplan](https://jcon.xdev.cloud/)
+
+2017-10: Workshop ["Building Microservices with Spring Boot and Docker"](https://devopenspace.de/#workshops) together with [@dataduke](https://twitter.com/dataduke) @ [Developer Open Space Leipzig](https://devopenspace.de/)
 
 2017-09: Talking about *"Mit Windows, Docker & Ansible die Puppen tanzen lassen - Erfahrungen aus dem real life Einsatz von Docker Windows Containern im Kundenprojekt"* on "IT-Automation for Java Developers"-Day @ [Java User Group Thüringen](https://www.meetup.com/de-DE/jugthde/events/241399678/)
 
