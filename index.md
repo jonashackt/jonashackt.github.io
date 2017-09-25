@@ -10,7 +10,9 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 ### Blog & article posts:
 
-2017-09: [Docker-Windows-Container mit Ansible managen](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-1-2-3824736.html) @ [heise developer](https://www.heise.de/developer/)
+2017-09: [Docker-Windows-Container mit Ansible managen (2/2)](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-2-2-3838642.html) @ [heise developer](https://www.heise.de/developer/)
+
+2017-09: [Docker-Windows-Container mit Ansible managen (1/2)](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-1-2-3824736.html) @ [heise developer](https://www.heise.de/developer/)
 
 2017-07: [Ansible zaubert Spring Boot Apps auch auf Windows](https://blog.codecentric.de/2017/07/ansible-windows-spring-boot/)
 
