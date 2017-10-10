@@ -10,6 +10,8 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 ### Blog & article posts:
 
+2017-09: [Taming the Hybrid Swarm: Initializing a Mixed OS Docker Swarm Cluster Running Windows & Linux Native Containers with Vagrant & Ansible](https://blog.codecentric.de/en/2017/09/taming-hybrid-swarm-init-mixed-os-docker-swarm-vagrant-ansible/)
+
 2017-09: [Docker-Windows-Container mit Ansible managen (2/2)](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-2-2-3838642.html) @ [heise developer](https://www.heise.de/developer/)
 
 2017-09: [Docker-Windows-Container mit Ansible managen (1/2)](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-1-2-3824736.html) @ [heise developer](https://www.heise.de/developer/)
