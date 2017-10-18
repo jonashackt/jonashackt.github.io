@@ -7,6 +7,9 @@
 
 Together with some nice folks I lately founded the [Java User Group Thüringen (JUG th)](https://twitter.com/jug_th) - come and meet us on an upcoming [Meetup](https://www.meetup.com/de-DE/jug_th/)! Here's [some more information](http://slides.com/jonashackt/jug_th#/). See an [interview on facebook](https://www.facebook.com/ITnetThueringen/videos/1187163134727424/)!
 
+Lately a talk of mine was recorded, see it here:
+
+<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
 
 ### Blog & article posts:
 
@@ -47,6 +50,8 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 > Award: codecentric AG Blog Awards 2016 "Most Comments" ([german version](https://blog.codecentric.de/2016/02/spring-boot-apache-cxf/)) & second most-clicked post in 2016
 
+2015-12: [MicroPlode – A Microservices Experiment](https://blog.codecentric.de/en/2015/12/microplode-microservices-dialogue/) (together with [Thomas](https://twitter.com/sgTom42) & [Bastian](https://twitter.com/bastiankrol))
+
 
 ### Talks & Workshops:
 
@@ -75,7 +80,9 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 ### Printed stuff:
 
-2016-09: Article about "Spring Boot und Apache CXF - SOAP ohne XML?" published in the [Softwerker Vol. 8](https://www.codecentric.de/2016/09/09/softwerker-vol-8-ist-da/) by [codecentric](https://www.codecentric.de/)
+2017-09: Article about "Windows? Nicht ohne Ansible! Ansible zaubert Spring Boot Apps auch auf Windows" published in the [Softwerker Vol. 10](https://www.codecentric.de/2017/09/11/der-softwerker-vol-10-ist-fertig/) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine 
+
+2016-09: Article about "Spring Boot und Apache CXF - SOAP ohne XML?" published in the [Softwerker Vol. 8](https://www.codecentric.de/2016/09/09/softwerker-vol-8-ist-da/) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine
 
 
 ### Socials:
