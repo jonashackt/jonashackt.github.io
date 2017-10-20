@@ -7,10 +7,6 @@
 
 Together with some nice folks I lately founded the [Java User Group Thüringen (JUG th)](https://twitter.com/jug_th) - come and meet us on an upcoming [Meetup](https://www.meetup.com/de-DE/jug_th/)! Here's [some more information](http://slides.com/jonashackt/jug_th#/). See an [interview on facebook](https://www.facebook.com/ITnetThueringen/videos/1187163134727424/)!
 
-Lately a talk of mine was recorded, see it here:
-
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
-
 ### Blog & article posts:
 
 2017-09: [Taming the Hybrid Swarm: Initializing a Mixed OS Docker Swarm Cluster Running Windows & Linux Native Containers with Vagrant & Ansible](https://blog.codecentric.de/en/2017/09/taming-hybrid-swarm-init-mixed-os-docker-swarm-vagrant-ansible/)
