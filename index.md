@@ -106,4 +106,4 @@ I currently build more & more with [Docker](https://www.docker.com/) & [Spring C
 I have been a SOA/Integration software architect & quit the job after successful implementing inside whole company.  
 Why? Because those are just concepts & __culture eat's software architecture for breakfast!__
 
-I love Mountainbiking, Surfing and beeing a proud Husband & Dad.
+I love [Mountainbiking](https://youtu.be/JT98n6IDQSI), Surfing and beeing a proud Husband & Dad.
