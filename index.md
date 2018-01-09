@@ -9,6 +9,8 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 ### Blog & article posts:
 
+2018-01: [Die hybdride Cloud mit Docker Swarm und Ansible (2/2)](https://www.heise.de/developer/artikel/Die-hybride-Cloud-mit-Docker-Swarm-und-Ansible-2-2-3929312.html) @ [heise developer](https://www.heise.de/developer/)
+
 2017-12: [Die hybdride Cloud mit Docker Swarm und Ansible (1/2)](https://www.heise.de/developer/artikel/Die-hybdride-Cloud-mit-Docker-Swarm-und-Ansible-Teil-1-3894131.html) @ [heise developer](https://www.heise.de/developer/)
 
 2017-09: [Taming the Hybrid Swarm: Initializing a Mixed OS Docker Swarm Cluster Running Windows & Linux Native Containers with Vagrant & Ansible](https://blog.codecentric.de/en/2017/09/taming-hybrid-swarm-init-mixed-os-docker-swarm-vagrant-ansible/)
