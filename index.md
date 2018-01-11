@@ -55,6 +55,10 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 ### Talks & Workshops:
 
+2018-01: Talking about *"Running Spring Boot Apps on Docker Windows Containers with Ansible"* @ [Cloud-Native Java Day with Josh Long at codecentric Solingen](https://www.codecentric.de/2017/11/30/cloud-native-java-day-spring-rockstar-josh-long/)
+
+> Mentions: [This Week in Spring (7th Anniversary Edition) - January 2nd, 2017](https://spring.io/blog/2018/01/03/this-week-in-spring-7th-anniversary-edition-january-2nd-2017) ([spring.io/blog](https://spring.io/blog))
+
 2017-10: Talking about *"Mit Ansible die Puppen tanzen lassen – Spring Boot Apps in Docker Windows Container"* @ [JCON 2017 in Düsseldorf](http://jcon.one/de/) [Sessionplan](https://jcon.xdev.cloud/)
 
 2017-10: Workshop ["Building Microservices with Spring Boot and Docker"](https://devopenspace.de/#workshops) together with [@dataduke](https://twitter.com/dataduke) @ [Developer Open Space Leipzig](https://devopenspace.de/)
