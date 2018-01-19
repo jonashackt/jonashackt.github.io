@@ -77,9 +77,17 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 2017-06: Talking about *"Running Spring Boot Apps on Docker Windows Containers with Ansible - Integrating Legacy Windows Apps with Microservices"* @ [codecentric Meetup Berlin](https://www.meetup.com/de-DE/codecentric-Berlin/events/238644774/)
 
+2016-08: Talking about *"Spring Boot quickstart ...with a little bit Apache CXF"* @ [Provinzial Community Tag 2016](https://www.slideshare.net/JonasHecht1/spring-boot-quickstart)
+
+
+### Lectures & Projects with Students 
+
+2017-10 - 2018-04: Fascilitating a project seminar in *"modern software engineering"* @ [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/medien/professuren/intelligente-softwaresysteme/): Goal is to digitize a registration process for the kids of city Weimar / Thuringia, Germany for school holidays activities as a charity project
+
+> Mentions: In the local press [Thüringer Allgemeine 2018-01-17](http://www.thueringer-allgemeine.de/web/zgt/suche/detail/-/specific/Lange-Schlange-im-Kinderbuero-war-der-Ausloeser-168601916) [Thüringiscge Landeszeitung 2018-01-17](http://weimar.tlz.de/web/weimar/startseite/detail/-/specific/Lange-Schlange-im-Kinderbuero-war-der-Ausloeser-168601916) [BAUHAUS.JOURNAL ONLINE 2018-01-16](https://www.uni-weimar.de/de/universitaet/aktuell/bauhausjournal-online/titel/projektpraesentation-medieninformatik-studierende-entwickeln-online-anmeldung-fuer-weimarer-ferienpas-1/) [codecentric.de](https://www.codecentric.de/2018/01/17/schoenere-ferien-dank-digitalisierung/)
+
 2017-01: Giving a lecture about *"Real life software engineering"* @ [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/medien/professuren/intelligente-softwaresysteme/)
 
-2016-08: Talking about *"Spring Boot quickstart ...with a little bit Apache CXF"* @ [Provinzial Community Tag 2016](https://www.slideshare.net/JonasHecht1/spring-boot-quickstart)
 
 
 ### Printed stuff:
