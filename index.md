@@ -7,6 +7,10 @@
 
 Together with some nice folks I lately founded the [Java User Group Thüringen (JUG th)](https://twitter.com/jug_th) - come and meet us on an upcoming [Meetup](https://www.meetup.com/de-DE/jug_th/)! Here's [some more information](http://slides.com/jonashackt/jug_th#/). See an [interview on facebook](https://www.facebook.com/ITnetThueringen/videos/1187163134727424/)!
 
+Here´s also recording of a current talk about some DevOps stuff: 
+
+<iframe width="400" height="224" src="https://www.youtube.com/embed/9F-qC2XFyAE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Blog & article posts:
 
 2018-01: [Die hybdride Cloud mit Docker Swarm und Ansible (2/2)](https://www.heise.de/developer/artikel/Die-hybride-Cloud-mit-Docker-Swarm-und-Ansible-2-2-3929312.html) @ [heise developer](https://www.heise.de/developer/)
