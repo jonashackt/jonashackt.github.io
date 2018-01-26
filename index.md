@@ -9,7 +9,8 @@ Together with some nice folks I lately founded the [Java User Group Thüringen (
 
 Here´s also recording of a current talk about some DevOps stuff: 
 
-<iframe width="400" height="224" src="https://www.youtube.com/embed/9F-qC2XFyAE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="380" height="214" src="https://www.youtube.com/embed/9F-qC2XFyAE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ### Blog & article posts:
 
