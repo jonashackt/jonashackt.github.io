@@ -60,6 +60,10 @@ Here´s also recording of a current talk about some DevOps stuff:
 
 ### Talks & Workshops:
 
+2018-02: Talking about *"Running Spring Boot Apps on Docker Windows Containers with Ansible"* @ [Java User Group Hessen at Universität Kassel](https://www.micromata.de/blog/community/spring-boot-docker-ansible-windows/) 
+
+> Recording: [Youtube](https://www.youtube.com/watch?v=_j6CrXLrP3o)
+
 2018-01: Talking about *"Running Spring Boot Apps on Docker Windows Containers with Ansible"* @ [Cloud-Native Java Day with Josh Long at codecentric Solingen](https://www.codecentric.de/2017/11/30/cloud-native-java-day-spring-rockstar-josh-long/)
 
 > Recording: [Youtube](https://youtu.be/9F-qC2XFyAE)
