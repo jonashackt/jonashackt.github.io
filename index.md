@@ -14,6 +14,10 @@ Here´s also recording of a current talk about some DevOps stuff:
 
 ### Blog & article posts:
 
+2018-04: [A Lovely Spring View: Spring Boot & Vue.js](https://blog.codecentric.de/en/2018/04/spring-boot-vuejs/)
+
+> Mentions: [This Week in Spring - April 24th, 2018](https://spring.io/blog/2018/04/24/this-week-in-spring-april-24th-2018) ([spring.io/blog](https://spring.io/blog))
+
 2018-01: [Die hybdride Cloud mit Docker Swarm und Ansible (2/2)](https://www.heise.de/developer/artikel/Die-hybride-Cloud-mit-Docker-Swarm-und-Ansible-2-2-3929312.html) @ [heise developer](https://www.heise.de/developer/)
 
 2017-12: [Die hybdride Cloud mit Docker Swarm und Ansible (1/2)](https://www.heise.de/developer/artikel/Die-hybdride-Cloud-mit-Docker-Swarm-und-Ansible-Teil-1-3894131.html) @ [heise developer](https://www.heise.de/developer/)
