@@ -14,6 +14,8 @@ Here´s also recording of a current talk about some DevOps stuff:
 
 ### Blog & article posts:
 
+2018-05: [A Complete Setup of GitLab CI & Docker Using Vagrant & Ansible: HTTPS/Let’s Encrypt, Container Registry, Runners](https://blog.codecentric.de/en/2018/05/gitlab-ci-pipeline/)
+
 2018-04: [A Lovely Spring View: Spring Boot & Vue.js](https://blog.codecentric.de/en/2018/04/spring-boot-vuejs/)
 
 > Mentions: [This Month in Spring - May 2, 2018](https://content.pivotal.io/blog/this-month-in-spring-may-2-2018) ([Pivotal Blog](https://content.pivotal.io/blog)) & [This Week in Spring - April 24th, 2018](https://spring.io/blog/2018/04/24/this-week-in-spring-april-24th-2018) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 226](http://www.baeldung.com/java-weekly-226) ([baeldung.com](http://www.baeldung.com/category/weekly-review/)) & [Official Java Twitter Channel](https://twitter.com/java/status/991527197734141954)
