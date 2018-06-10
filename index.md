@@ -66,6 +66,8 @@ Here´s also recording of a current talk about some DevOps stuff:
 
 ### Talks & Workshops:
 
+2018-05: Talking about *"Hybride Docker Schwärme mit Ansible"* @ [DevOps-Dienstag präsentiert vom Webmontag Erfurt](https://www.xing.com/events/devops-dienstag-prasentiert-webmontag-erfurt-1947855) @ [DBSystel Skydeck Erfurt](https://skydeck.deutschebahn.com/)
+
 2018-02: Talking about *"Running Spring Boot Apps on Docker Windows Containers with Ansible"* @ [Java User Group Hessen at Universität Kassel](https://www.micromata.de/blog/community/spring-boot-docker-ansible-windows/) 
 
 <iframe width="380" height="214" src="https://www.youtube.com/embed/_j6CrXLrP3o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
