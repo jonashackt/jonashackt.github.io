@@ -111,6 +111,8 @@ Here´s also recording of a current talk about some DevOps stuff:
 
 ### Printed stuff:
 
+2018-07: Article about "Zwei zum Verlieben - Spring Boot und Vue.js im eigenen Projekt anwenden" published in the Java Magazin 08.2018 (https://entwickler.de/leseproben/projektarbeit-spring-boot-und-vue-js-579847897.html)
+
 2017-09: Article about "Windows? Nicht ohne Ansible! Ansible zaubert Spring Boot Apps auch auf Windows" published in the [Softwerker Vol. 10](https://www.codecentric.de/2017/09/11/der-softwerker-vol-10-ist-fertig/) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine 
 
 2016-09: Article about "Spring Boot und Apache CXF - SOAP ohne XML?" published in the [Softwerker Vol. 8](https://www.codecentric.de/2016/09/09/softwerker-vol-8-ist-da/) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine
