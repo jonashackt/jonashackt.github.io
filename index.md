@@ -18,7 +18,7 @@ Here´s also recording of a current talk about some DevOps stuff:
 
 2018-04: [A Lovely Spring View: Spring Boot & Vue.js](https://blog.codecentric.de/en/2018/04/spring-boot-vuejs/)
 
-> Mentions: [This Month in Spring - May 2, 2018](https://content.pivotal.io/blog/this-month-in-spring-may-2-2018) ([Pivotal Blog](https://content.pivotal.io/blog)) & [This Week in Spring - April 24th, 2018](https://spring.io/blog/2018/04/24/this-week-in-spring-april-24th-2018) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 226](http://www.baeldung.com/java-weekly-226) ([baeldung.com](http://www.baeldung.com/category/weekly-review/)) & [Official Java Twitter Channel](https://twitter.com/java/status/991527197734141954)
+> Mentions: "Jonas Hecht has a nice post on using Spring Boot and Vue.js together" [This Month in Spring - May 2, 2018](https://content.pivotal.io/blog/this-month-in-spring-may-2-2018) ([Pivotal Blog](https://content.pivotal.io/blog)) & [This Week in Spring - April 24th, 2018](https://spring.io/blog/2018/04/24/this-week-in-spring-april-24th-2018) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 226](http://www.baeldung.com/java-weekly-226) ([baeldung.com](http://www.baeldung.com/category/weekly-review/)) & [Official Java Twitter Channel](https://twitter.com/java/status/991527197734141954)
 
 2018-01: [Die hybdride Cloud mit Docker Swarm und Ansible (2/2)](https://www.heise.de/developer/artikel/Die-hybride-Cloud-mit-Docker-Swarm-und-Ansible-2-2-3929312.html) @ [heise developer](https://www.heise.de/developer/)
 
@@ -34,10 +34,11 @@ Here´s also recording of a current talk about some DevOps stuff:
 
 2017-05: [Scaling Spring Boot Apps on Docker Windows Containers with Ansible: A Complete Guide incl Spring Cloud Netflix and Docker Compose](https://blog.codecentric.de/en/2017/05/ansible-docker-windows-containers-scaling-spring-cloud-netflix-docker-compose/)
 
-> Mentions: [This Week in Spring - May 30th, 2017](https://spring.io/blog/2017/05/30/this-week-in-spring-may-30th-2017) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 179](http://www.baeldung.com/java-web-weekly-179) ([baeldung.com](http://www.baeldung.com/category/weekly-review/))
+> Mentions: "I liked Jonas Hecht’s post looking at how to run Spring Boot on Docker Windows" [This Week in Spring - May 30th, 2017](https://spring.io/blog/2017/05/30/this-week-in-spring-may-30th-2017) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 179](http://www.baeldung.com/java-web-weekly-179) ([baeldung.com](http://www.baeldung.com/category/weekly-review/))
 
 2017-04: [Running Spring Boot Apps on Docker Windows Containers with Ansible: A Complete Guide incl Packer, Vagrant & Powershell](https://blog.codecentric.de/en/2017/04/ansible-docker-windows-containers-spring-boot/)
-> Mentions: [This Week in Spring - April 11th, 2017](https://spring.io/blog/2017/04/11/this-week-in-spring-april-11th-2017) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 172](http://www.baeldung.com/java-web-weekly-172) ([baeldung.com](http://www.baeldung.com/category/weekly-review/))
+
+> Mentions: "Jonas Hecht put together a nice post on running Spring Boot applications on Windows using Ansible" [This Week in Spring - April 11th, 2017](https://spring.io/blog/2017/04/11/this-week-in-spring-april-11th-2017) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 172](http://www.baeldung.com/java-web-weekly-172) ([baeldung.com](http://www.baeldung.com/category/weekly-review/))
 
 2017-01: [Running Spring Boot Apps on Windows with Ansible](https://blog.codecentric.de/en/2017/01/ansible-windows-spring-boot/)
 
@@ -45,7 +46,7 @@ Here´s also recording of a current talk about some DevOps stuff:
 
 2016-10: [Spring Boot & Apache CXF – SOAP on steroids fueled by cxf-spring-boot-starter](https://blog.codecentric.de/en/2016/10/spring-boot-apache-cxf-spring-boot-starter/)
 
-> Mentions: [This Week in Spring - October 18, 2016](https://spring.io/blog/2016/10/18/this-week-in-spring-october-18-2016) ([spring.io/blog](https://spring.io/blog))
+> Mentions: "Jonas Hecht has posted yet another installment in his series looking at how to work with CXF and Spring, this time debuting a good-looking Spring Boot auto-configuration and starter that simplifies things considerably" [This Week in Spring - October 18, 2016](https://spring.io/blog/2016/10/18/this-week-in-spring-october-18-2016) ([spring.io/blog](https://spring.io/blog))
 
 2016-07: [Spring Boot & Apache CXF – Logging & Monitoring with Logback, Elasticsearch, Logstash & Kibana](https://blog.codecentric.de/en/2016/07/spring-boot-apache-cxf-logging-monitoring-logback-elasticsearch-logstash-kibana/)
 
@@ -69,6 +70,8 @@ Here´s also recording of a current talk about some DevOps stuff:
 2018-07: Article about "Zwei zum Verlieben - Spring Boot und Vue.js im eigenen Projekt anwenden" published in the [Java Magazin 08.2018](https://entwickler.de/leseproben/projektarbeit-spring-boot-und-vue-js-579847897.html)
 
 > Author of the Month: [Java Magazin 08.2018](https://jaxenter.de/ausgaben/java-magazin-8-18)
+
+> Mentions: "The amazing Jonas Hecht’s article on Spring Boot and Vue.js is now available in the latest installment of the German-language magazine JavaMagazin." [This Week in Spring - July 10, 2018](https://spring.io/blog/2018/07/10/this-week-in-spring-july-10th-2018) ([spring.io/blog](https://spring.io/blog))
 
 ![java-magazin-8.2018]({{ site.url }}/assets/java-magazin-8.2018.png)
 
@@ -115,9 +118,11 @@ Here´s also recording of a current talk about some DevOps stuff:
 
 ### Lectures & Projects with Students 
 
+2018-07: Giving a training about Git in Practice at the [FH-Erfurt](https://www.fh-erfurt.de/fhe/) [Institute für Angewandte Informatik](https://www.ai.fh-erfurt.de/) - incl. creating and using the new [GitHub FHE Orga](https://github.com/fh-erfurt)
+
 2017-10 - 2018-04: Fascilitating a project seminar in *"modern software engineering"* @ [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/medien/professuren/intelligente-softwaresysteme/): Goal is to digitize a registration process for the kids of city Weimar / Thuringia, Germany for school holidays activities as a charity project
 
-> Mentions: In the local press [Thüringer Allgemeine 2018-01-17](http://www.thueringer-allgemeine.de/web/zgt/suche/detail/-/specific/Lange-Schlange-im-Kinderbuero-war-der-Ausloeser-168601916) [Thüringiscge Landeszeitung 2018-01-17](http://weimar.tlz.de/web/weimar/startseite/detail/-/specific/Lange-Schlange-im-Kinderbuero-war-der-Ausloeser-168601916) [BAUHAUS.JOURNAL ONLINE 2018-01-16](https://www.uni-weimar.de/de/universitaet/aktuell/bauhausjournal-online/titel/projektpraesentation-medieninformatik-studierende-entwickeln-online-anmeldung-fuer-weimarer-ferienpas-1/) [Focus Online](https://www.focus.de/regional/thueringen/bauhaus-universitaet-weimar-meldung-vom-16-01-2018_id_8309726.html) [codecentric.de](https://www.codecentric.de/2018/01/17/schoenere-ferien-dank-digitalisierung/) [final celebration, Focus Online](https://www.focus.de/regional/thueringen/stadt-weimar-dank-an-die-foerderer-des-ferienpass-weimar-2018_id_9230231.html)
+> Mentions: In the local press [Thüringer Allgemeine 2018-01-17](http://www.thueringer-allgemeine.de/web/zgt/suche/detail/-/specific/Lange-Schlange-im-Kinderbuero-war-der-Ausloeser-168601916) & [Thüringische Landeszeitung 2018-01-17](http://weimar.tlz.de/web/weimar/startseite/detail/-/specific/Lange-Schlange-im-Kinderbuero-war-der-Ausloeser-168601916) & [BAUHAUS.JOURNAL ONLINE 2018-01-16](https://www.uni-weimar.de/de/universitaet/aktuell/bauhausjournal-online/titel/projektpraesentation-medieninformatik-studierende-entwickeln-online-anmeldung-fuer-weimarer-ferienpas-1/) & [Focus Online](https://www.focus.de/regional/thueringen/bauhaus-universitaet-weimar-meldung-vom-16-01-2018_id_8309726.html) & [codecentric.de](https://www.codecentric.de/2018/01/17/schoenere-ferien-dank-digitalisierung/) & [final celebration, Focus Online](https://www.focus.de/regional/thueringen/stadt-weimar-dank-an-die-foerderer-des-ferienpass-weimar-2018_id_9230231.html)
 
 2017-01: Giving a lecture about *"Real life software engineering"* @ [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/medien/professuren/intelligente-softwaresysteme/)
 
