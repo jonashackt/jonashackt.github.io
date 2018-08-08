@@ -5,14 +5,47 @@
 #layout: home
 ---
 
-Together with some nice folks I lately founded the [Java User Group Thüringen (JUG th)](https://twitter.com/jugthde) - come and meet us on an upcoming [Meetup](https://www.meetup.com/de-DE/jugthde/)! Here's [some more information](http://slides.com/jonashackt/jug_th#/). See an [interview on facebook](https://www.facebook.com/ITnetThueringen/videos/1187163134727424/)!
+Come and meet us on an upcoming [Meetup](https://www.meetup.com/jugthde/) of the [Java User Group Thüringen](https://twitter.com/jugthde)! Here's [some more information](http://www.jugth.de). Together with some nice folks I lately also founded the [IoT Thüringen Meetup](https://www.meetup.com/iothde/) - more info will be available soon! Stay tuned, follow us here [twitter.com/iothde](https://twitter.com/iothde)
 
 Here´s also recording of a current talk about some DevOps stuff: 
 
 <iframe width="380" height="214" src="https://www.youtube.com/embed/9F-qC2XFyAE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+
+### printed articles:
+
+2018-08: Article about "Bausatz zur Automatisierung - GitLab-CI-Setup mit Vagrant und Ansible" in the category "Continuous Integration" published in the [iX Magazin für professionelle Informationstechnik 08/2018](https://www.heise.de/select/ix/2018/8/) ([article link](https://www.heise.de/select/ix/2018/8/1533431466220024))
+
+> Mentions: [Twitter](https://twitter.com/jonashackt/status/1023222393622458374), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6429044324599635968/)
+
+> The article also made it on the frontcover:
+
+![ix-2018-08]({{ site.url }}/assets/ix-2018-08.png)
+
+2018-07: Article about "Zwei zum Verlieben - Spring Boot und Vue.js im eigenen Projekt anwenden" published in the [Java Magazin 08.2018](https://entwickler.de/leseproben/projektarbeit-spring-boot-und-vue-js-579847897.html)
+
+> Author of the Month: [Java Magazin 08.2018](https://jaxenter.de/ausgaben/java-magazin-8-18)
+
+> Mentions: "The amazing Jonas Hecht’s article on Spring Boot and Vue.js is now available in the latest installment of the German-language magazine JavaMagazin." [This Week in Spring - July 10, 2018](https://spring.io/blog/2018/07/10/this-week-in-spring-july-10th-2018) ([spring.io/blog](https://spring.io/blog))
+
+> The [full article](https://www.codecentric.de/publikation/spring-boot-und-vue-js-im-eigenen-projekt-praktisch-nutzen) has been made available to [public by codecentric here](https://public.centerdevice.de/58b09f99-493a-4830-87ea-ff1876340cf3)
+
+> The article also made it on the frontcover:
+
+![java-magazin-8.2018]({{ site.url }}/assets/java-magazin-8.2018.png)
+
+
+2017-09: Article about "Windows? Nicht ohne Ansible! Ansible zaubert Spring Boot Apps auch auf Windows" published in the [Softwerker Vol. 10](https://www.codecentric.de/2017/09/11/der-softwerker-vol-10-ist-fertig/) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine 
+
+2016-09: Article about "Spring Boot und Apache CXF - SOAP ohne XML?" published in the [Softwerker Vol. 8](https://www.codecentric.de/2016/09/09/softwerker-vol-8-ist-da/) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine
+
+
 ### Blog & article posts:
+
+2018-07: [Spring Boot und Vue.js im eigenen Projekt praktisch nutzen - das Tutorial](https://jaxenter.de/spring-boot-vue-js-73384) on [JAXenter](https://jaxenter.de/)
+
+2018-07: [Spring Boot und Vue.js im eigenen Projekt praktisch nutzen - das Tutorial](https://entwickler.de/online/javascript/spring-boot-vue-js-579852076.html) on [entwickler.de](https://entwickler.de/)
 
 2018-05: [A Complete Setup of GitLab CI & Docker Using Vagrant & Ansible: HTTPS/Let’s Encrypt, Container Registry, Runners](https://blog.codecentric.de/en/2018/05/gitlab-ci-pipeline/)
 
@@ -65,20 +98,6 @@ Here´s also recording of a current talk about some DevOps stuff:
 2015-12: [MicroPlode – A Microservices Experiment](https://blog.codecentric.de/en/2015/12/microplode-microservices-dialogue/) (together with [Thomas](https://twitter.com/sgTom42) & [Bastian](https://twitter.com/bastiankrol))
 
 
-### Printed stuff:
-
-2018-07: Article about "Zwei zum Verlieben - Spring Boot und Vue.js im eigenen Projekt anwenden" published in the [Java Magazin 08.2018](https://entwickler.de/leseproben/projektarbeit-spring-boot-und-vue-js-579847897.html)
-
-> Author of the Month: [Java Magazin 08.2018](https://jaxenter.de/ausgaben/java-magazin-8-18)
-
-> Mentions: "The amazing Jonas Hecht’s article on Spring Boot and Vue.js is now available in the latest installment of the German-language magazine JavaMagazin." [This Week in Spring - July 10, 2018](https://spring.io/blog/2018/07/10/this-week-in-spring-july-10th-2018) ([spring.io/blog](https://spring.io/blog))
-
-![java-magazin-8.2018]({{ site.url }}/assets/java-magazin-8.2018.png)
-
-
-2017-09: Article about "Windows? Nicht ohne Ansible! Ansible zaubert Spring Boot Apps auch auf Windows" published in the [Softwerker Vol. 10](https://www.codecentric.de/2017/09/11/der-softwerker-vol-10-ist-fertig/) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine 
-
-2016-09: Article about "Spring Boot und Apache CXF - SOAP ohne XML?" published in the [Softwerker Vol. 8](https://www.codecentric.de/2016/09/09/softwerker-vol-8-ist-da/) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine
 
 
 ### Talks & Workshops:
