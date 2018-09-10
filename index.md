@@ -5,9 +5,9 @@
 #layout: home
 ---
 
-Come and meet us on an upcoming [Meetup](https://www.meetup.com/jugthde/) of the [Java User Group Thüringen](https://twitter.com/jugthde)! Here's [some more information](http://www.jugth.de). Together with some nice folks I lately also founded the [IoT Thüringen Meetup](https://www.meetup.com/iothde/) - more info will be available soon! Stay tuned, follow us here [twitter.com/iothde](https://twitter.com/iothde)
+Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java User Group Thüringen](https://www.meetup.com/jugthde/) ([@jugthde](https://twitter.com/jugthde)) or [IoT Thüringen Meetup](https://www.meetup.com/iothde/) ([@iothde](https://twitter.com/iothde)) or [DevOps Thüringen](https://www.meetup.com/devopsthde/) ([@devopsthde](https://twitter.com/devopsthde)). See you there!
 
-Here´s also recording of a current talk about some DevOps stuff: 
+Just a recording of a current talk about some DevOps stuff: 
 
 <iframe width="380" height="214" src="https://www.youtube.com/embed/9F-qC2XFyAE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
