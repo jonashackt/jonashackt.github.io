@@ -7,7 +7,6 @@
 
 Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java User Group Thüringen](https://www.meetup.com/jugthde/) ([@jugthde](https://twitter.com/jugthde)) or [IoT Thüringen Meetup](https://www.meetup.com/iothde/) ([@iothde](https://twitter.com/iothde)) or [DevOps Thüringen](https://www.meetup.com/devopsthde/) ([@devopsthde](https://twitter.com/devopsthde)). See you there!
 
-Just a recording of a current talk about some DevOps stuff: 
 
 <iframe width="380" height="214" src="https://www.youtube.com/embed/9F-qC2XFyAE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -18,6 +17,8 @@ Just a recording of a current talk about some DevOps stuff:
 2018-08: Article about "Bausatz zur Automatisierung - GitLab-CI-Setup mit Vagrant und Ansible" in the category "Continuous Integration" published in the [iX Magazin für professionelle Informationstechnik 08/2018](https://www.heise.de/select/ix/2018/8/) ([article link](https://www.heise.de/select/ix/2018/8/1533431466220024))
 
 > Mentions: [Twitter](https://twitter.com/jonashackt/status/1023222393622458374), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6429044324599635968/)
+
+> The [full article](https://www.codecentric.de/publikation/gitlab-ci-setup-mit-vagrant-und-ansible/) has been made available to [public by codecentric here](https://public.centerdevice.de/8987c6ff-8c8c-4dd2-b8ba-d6a5250399e3)
 
 > The article also made it on the frontcover:
 
