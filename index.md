@@ -16,6 +16,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 2018-09: Article about "Spring Boot und Vue.js" published in the ["Vue.js für alle. Wissenswertes für Einsteiger und Experten" entwickler.press shortcuts 09.2018](https://entwickler.de/press/shortcuts/vue-js-fuer-alle-wissenswertes-fuer-einsteiger-und-experten-579861468.html)
 
+> [Amazon Link](https://www.amazon.de/Vue-js-f%C3%BCr-alle-Wissenswertes-Einsteiger-ebook/dp/B07HQF9VX4/ref=sr_1_1?ie=UTF8&qid=1538484852&sr=8-1&keywords=Vue-js-f%C3%BCr-alle-Wissenswertes-Einsteiger-ebook) - EPUB-ISBN: 978-3-86802-844-7
+
 ![entwickler-press-092018]({{ site.url }}/assets/entwickler-press-092018.jpg)
 
 2018-08: Article about "Bausatz zur Automatisierung - GitLab-CI-Setup mit Vagrant und Ansible" in the category "Continuous Integration" published in the [iX Magazin für professionelle Informationstechnik 08/2018](https://www.heise.de/select/ix/2018/8/) ([article link](https://www.heise.de/select/ix/2018/8/1533431466220024))
