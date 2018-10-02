@@ -14,6 +14,10 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 ### printed articles:
 
+2018-09: Article about "Spring Boot und Vue.js" published in the ["Vue.js für alle. Wissenswertes für Einsteiger und Experten" entwickler.press shortcuts 09.2018](https://entwickler.de/press/shortcuts/vue-js-fuer-alle-wissenswertes-fuer-einsteiger-und-experten-579861468.html)
+
+![entwickler-press-092018]({{ site.url }}/assets/entwickler-press-092018.jpg)
+
 2018-08: Article about "Bausatz zur Automatisierung - GitLab-CI-Setup mit Vagrant und Ansible" in the category "Continuous Integration" published in the [iX Magazin für professionelle Informationstechnik 08/2018](https://www.heise.de/select/ix/2018/8/) ([article link](https://www.heise.de/select/ix/2018/8/1533431466220024))
 
 > Mentions: [Twitter](https://twitter.com/jonashackt/status/1023222393622458374), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6429044324599635968/)
