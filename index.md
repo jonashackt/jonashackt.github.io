@@ -159,7 +159,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 <span class="icon icon--github">{% include icon-github.svg %}</span> [github.com/jonashackt](https://github.com/jonashackt)
 
-[my OpenSource contribution overview](https://opensourcecontributo.rs/user/jonashackt)
+[keybase.io/jonashackt](https://keybase.io/jonashackt)
 
 [stackoverflow.com/users/4964553/jonashackt](http://stackoverflow.com/users/4964553/jonashackt)
 
