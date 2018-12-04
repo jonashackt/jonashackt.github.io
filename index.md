@@ -50,6 +50,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 ### Blog & article posts:
 
+2018-12: [ Test-driven infrastructure development with Ansible & Molecule](https://blog.codecentric.de/en/2018/12/test-driven-infrastructure-ansible-molecule/)
+
 2018-07: [Spring Boot und Vue.js im eigenen Projekt praktisch nutzen - das Tutorial](https://jaxenter.de/spring-boot-vue-js-73384) on [JAXenter](https://jaxenter.de/)
 
 2018-07: [Spring Boot und Vue.js im eigenen Projekt praktisch nutzen - das Tutorial](https://entwickler.de/online/javascript/spring-boot-vue-js-579852076.html) on [entwickler.de](https://entwickler.de/)
