@@ -54,6 +54,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 2018-12: [ Test-driven infrastructure development with Ansible & Molecule](https://blog.codecentric.de/en/2018/12/test-driven-infrastructure-ansible-molecule/)
 
+> Mentions: "Great article! The thought that IaC was code but did not get tests like real code never sat well with me. The next evolution with IaC, I feel, is this exact type of implementation. I look forward to your next article." [David_J_Eddy](https://twitter.com/David_J_Eddy/status/1075446494327652352) & "mega geil :) danke dir!" [Matyas Albert Nagy](https://twitter.com/albertmatyi/status/1071034289922412545)
+
 2018-07: [Spring Boot und Vue.js im eigenen Projekt praktisch nutzen - das Tutorial](https://jaxenter.de/spring-boot-vue-js-73384) on [JAXenter](https://jaxenter.de/)
 
 2018-07: [Spring Boot und Vue.js im eigenen Projekt praktisch nutzen - das Tutorial](https://entwickler.de/online/javascript/spring-boot-vue-js-579852076.html) on [entwickler.de](https://entwickler.de/)
