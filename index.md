@@ -50,6 +50,9 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 ### Blog & article posts:
 
+2019-01: [Continuous cloud infrastructure with Ansible, Molecule & TravisCI on AWS
+](https://blog.codecentric.de/en/2019/01/ansible-molecule-travisci-aws/)
+
 2018-12: [Continuous Infrastructure with Ansible, Molecule & TravisCI](https://blog.codecentric.de/en/2018/12/continuous-infrastructure-ansible-molecule-travisci/)
 
 2018-12: [ Test-driven infrastructure development with Ansible & Molecule](https://blog.codecentric.de/en/2018/12/test-driven-infrastructure-ansible-molecule/)
