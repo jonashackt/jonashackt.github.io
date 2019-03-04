@@ -12,7 +12,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 
 
-### printed articles:
+## Printed articles:
 
 2018-09: Article about "Spring Boot und Vue.js" published in the ["Vue.js für alle. Wissenswertes für Einsteiger und Experten" entwickler.press shortcuts 09.2018](https://entwickler.de/press/shortcuts/vue-js-fuer-alle-wissenswertes-fuer-einsteiger-und-experten-579861468.html)
 
@@ -48,7 +48,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 2016-09: Article about "Spring Boot und Apache CXF - SOAP ohne XML?" published in the [Softwerker Vol. 8](https://www.codecentric.de/2016/09/09/softwerker-vol-8-ist-da/) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine
 
 
-### Online article posts:
+## Online article posts:
 
 2018-01: [Die hybdride Cloud mit Docker Swarm und Ansible (2/2)](https://www.heise.de/developer/artikel/Die-hybride-Cloud-mit-Docker-Swarm-und-Ansible-2-2-3929312.html) @ [heise developer](https://www.heise.de/developer/)
 
@@ -61,7 +61,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 
 
-### blog.codecentric.de posts:
+## blog.codecentric.de posts:
 
 2019-01: [Continuous cloud infrastructure with Ansible, Molecule & TravisCI on AWS
 ](https://blog.codecentric.de/en/2019/01/ansible-molecule-travisci-aws/)
@@ -121,7 +121,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 
 
-### Talks & Workshops:
+## Talks & Workshops:
 
 2019-03: Talking about *"Test-driven infrastructure Development
 and Continuous Infrastructure with Ansible
@@ -164,7 +164,9 @@ and Molecule"* @ [DevOps Thüringen Meetup](https://www.meetup.com/de-DE/devopst
 2016-08: Talking about *"Spring Boot quickstart ...with a little bit Apache CXF"* @ [Provinzial Community Tag 2016](https://www.slideshare.net/JonasHecht1/spring-boot-quickstart)
 
 
-### Lectures & Projects with Students 
+## Lectures & Projects with Students 
+
+2019-01: Giving a lecture about *"Real life software engineering"* @ [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/medien/professuren/intelligente-softwaresysteme/)
 
 2018-07: Giving a training about Git in Practice at the [FH-Erfurt](https://www.fh-erfurt.de/fhe/) [Institute für Angewandte Informatik](https://www.ai.fh-erfurt.de/) - incl. creating and using the new [GitHub FHE Orga](https://github.com/fh-erfurt)
 
@@ -176,7 +178,7 @@ and Molecule"* @ [DevOps Thüringen Meetup](https://www.meetup.com/de-DE/devopst
 
 
 
-### Socials:
+## Socials:
 <span class="icon icon--github">{% include icon-twitter.svg %}</span> [twitter.com/jonashackt](https://twitter.com/jonashackt) 
 
 <span class="icon icon--github">{% include icon-github.svg %}</span> [github.com/jonashackt](https://github.com/jonashackt)
@@ -193,7 +195,7 @@ and Molecule"* @ [DevOps Thüringen Meetup](https://www.meetup.com/de-DE/devopst
 
 [strava.com profile](https://www.strava.com/athletes/16787462)
 
-### About me
+## About me
 
 I'am a [Spring Boot](https://projects.spring.io/spring-boot/) using guy, who loves [Ansible](https://www.ansible.com/) & is a CI/CD enthusiast. 
 I currently build more & more with [Docker](https://www.docker.com/) & [Spring Cloud](http://projects.spring.io/spring-cloud/). And I always try to write practical & comprehensible blog posts (as you can see above :) ).
