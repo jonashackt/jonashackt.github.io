@@ -48,7 +48,20 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 2016-09: Article about "Spring Boot und Apache CXF - SOAP ohne XML?" published in the [Softwerker Vol. 8](https://www.codecentric.de/2016/09/09/softwerker-vol-8-ist-da/) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine
 
 
-### Blog & article posts:
+### Online article posts:
+
+2018-01: [Die hybdride Cloud mit Docker Swarm und Ansible (2/2)](https://www.heise.de/developer/artikel/Die-hybride-Cloud-mit-Docker-Swarm-und-Ansible-2-2-3929312.html) @ [heise developer](https://www.heise.de/developer/)
+
+2017-12: [Die hybdride Cloud mit Docker Swarm und Ansible (1/2)](https://www.heise.de/developer/artikel/Die-hybdride-Cloud-mit-Docker-Swarm-und-Ansible-Teil-1-3894131.html) @ [heise developer](https://www.heise.de/developer/)
+
+2017-09: [Docker-Windows-Container mit Ansible managen (2/2)](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-2-2-3838642.html) @ [heise developer](https://www.heise.de/developer/)
+
+2017-09: [Docker-Windows-Container mit Ansible managen (1/2)](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-1-2-3824736.html) @ [heise developer](https://www.heise.de/developer/)
+
+
+
+
+### blog.codecentric.de posts:
 
 2019-01: [Continuous cloud infrastructure with Ansible, Molecule & TravisCI on AWS
 ](https://blog.codecentric.de/en/2019/01/ansible-molecule-travisci-aws/)
@@ -69,15 +82,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 > Mentions: "Jonas Hecht has a nice post on using Spring Boot and Vue.js together" [This Month in Spring - May 2, 2018](https://content.pivotal.io/blog/this-month-in-spring-may-2-2018) ([Pivotal Blog](https://content.pivotal.io/blog)) & [This Week in Spring - April 24th, 2018](https://spring.io/blog/2018/04/24/this-week-in-spring-april-24th-2018) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 226](http://www.baeldung.com/java-weekly-226) ([baeldung.com](http://www.baeldung.com/category/weekly-review/)) & [Official Java Twitter Channel](https://twitter.com/java/status/991527197734141954)
 
-2018-01: [Die hybdride Cloud mit Docker Swarm und Ansible (2/2)](https://www.heise.de/developer/artikel/Die-hybride-Cloud-mit-Docker-Swarm-und-Ansible-2-2-3929312.html) @ [heise developer](https://www.heise.de/developer/)
-
-2017-12: [Die hybdride Cloud mit Docker Swarm und Ansible (1/2)](https://www.heise.de/developer/artikel/Die-hybdride-Cloud-mit-Docker-Swarm-und-Ansible-Teil-1-3894131.html) @ [heise developer](https://www.heise.de/developer/)
-
 2017-09: [Taming the Hybrid Swarm: Initializing a Mixed OS Docker Swarm Cluster Running Windows & Linux Native Containers with Vagrant & Ansible](https://blog.codecentric.de/en/2017/09/taming-hybrid-swarm-init-mixed-os-docker-swarm-vagrant-ansible/)
-
-2017-09: [Docker-Windows-Container mit Ansible managen (2/2)](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-2-2-3838642.html) @ [heise developer](https://www.heise.de/developer/)
-
-2017-09: [Docker-Windows-Container mit Ansible managen (1/2)](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-1-2-3824736.html) @ [heise developer](https://www.heise.de/developer/)
 
 2017-07: [Ansible zaubert Spring Boot Apps auch auf Windows](https://blog.codecentric.de/2017/07/ansible-windows-spring-boot/)
 
@@ -117,6 +122,14 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 
 ### Talks & Workshops:
+
+2019-03: Talking about *"Test-driven infrastructure Development
+and Continuous Infrastructure with Ansible
+and Molecule"* @ [Ansible Meetup Dresden](https://www.meetup.com/de-DE/Ansible-Dresden/events/259121696/) @ [TU Dresden - Zentrum für Informationsdienste und Hochleistungsrechnen](https://tu-dresden.de/zih)
+
+2019-01: Talking about *"Test-driven infrastructure Development
+and Continuous Infrastructure with Ansible
+and Molecule"* @ [DevOps Thüringen Meetup](https://www.meetup.com/de-DE/devopsthde/events/256351696/)
 
 2018-05: Talking about *"Hybride Docker Schwärme mit Ansible"* @ [DevOps-Dienstag präsentiert vom Webmontag Erfurt](https://www.xing.com/events/devops-dienstag-prasentiert-webmontag-erfurt-1947855) @ [DBSystel Skydeck Erfurt](https://skydeck.deutschebahn.com/)
 
