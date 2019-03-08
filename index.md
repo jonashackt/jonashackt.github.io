@@ -80,6 +80,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 2018-04: [A Lovely Spring View: Spring Boot & Vue.js](https://blog.codecentric.de/en/2018/04/spring-boot-vuejs/)
 
+> Award: codecentric AG Blog Awards 2018 “Most Successful Blogger”
+
 > Mentions: "Jonas Hecht has a nice post on using Spring Boot and Vue.js together" [This Month in Spring - May 2, 2018](https://content.pivotal.io/blog/this-month-in-spring-may-2-2018) ([Pivotal Blog](https://content.pivotal.io/blog)) & [This Week in Spring - April 24th, 2018](https://spring.io/blog/2018/04/24/this-week-in-spring-april-24th-2018) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 226](http://www.baeldung.com/java-weekly-226) ([baeldung.com](http://www.baeldung.com/category/weekly-review/)) & [Official Java Twitter Channel](https://twitter.com/java/status/991527197734141954)
 
 2017-09: [Taming the Hybrid Swarm: Initializing a Mixed OS Docker Swarm Cluster Running Windows & Linux Native Containers with Vagrant & Ansible](https://blog.codecentric.de/en/2017/09/taming-hybrid-swarm-init-mixed-os-docker-swarm-vagrant-ansible/)
@@ -126,6 +128,9 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 2019-03: Talking about *"Test-driven infrastructure Development
 and Continuous Infrastructure with Ansible
 and Molecule"* @ [Ansible Meetup Dresden](https://www.meetup.com/de-DE/Ansible-Dresden/events/259121696/) @ [TU Dresden - Zentrum für Informationsdienste und Hochleistungsrechnen](https://tu-dresden.de/zih)
+
+2019-03: Talking about *"Configuration - Heaven and Hell:
+An Industry View on Modern Software Engineering"* @ [Feature-Oriented Software Engineering Research (FOSD) 2019 Meeting](http://fosd.net/2019)
 
 2019-01: Talking about *"Test-driven infrastructure Development
 and Continuous Infrastructure with Ansible
