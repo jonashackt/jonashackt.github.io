@@ -202,6 +202,8 @@ and Molecule"* @ [DevOps Thüringen Meetup](https://www.meetup.com/de-DE/devopst
 
 ## About me
 
+![jonas_hecht_ganzklein]({{ site.url }}/assets/jonas_hecht_ganzklein.jpg)
+
 I'am a [Spring Boot](https://projects.spring.io/spring-boot/) using guy, who loves [Ansible](https://www.ansible.com/) & is a CI/CD enthusiast. 
 I currently build more & more with [Docker](https://www.docker.com/) & [Spring Cloud](http://projects.spring.io/spring-cloud/). And I always try to write practical & comprehensible blog posts (as you can see above :) ).
 
