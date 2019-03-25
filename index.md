@@ -14,6 +14,15 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 ## Printed articles:
 
+2019-04: Article about "Bausatz zur Automatisierung - GitLab-CI-Setup mit Vagrant und Ansible" in the category "Continuous Integration" published in the [iX Magazin für professionelle Informationstechnik 08/2018](https://www.heise.de/select/ix/2019/4/) ([article link](https://www.heise.de/select/ix/2019/4/1553945124716981))
+
+> Mentions: [Twitter](https://twitter.com/jonashackt/status/1109018502994841600), [Molecule Maintainers](https://twitter.com/retr0h/status/1109139272638988288), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6515467026549469184)
+
+> The article also made it on the frontcover:
+
+![ix-2018-08]({{ site.url }}/assets/ix-2019-04.png)
+
+
 2018-09: Article about "Spring Boot und Vue.js" published in the ["Vue.js für alle. Wissenswertes für Einsteiger und Experten" entwickler.press shortcuts 09.2018](https://entwickler.de/press/shortcuts/vue-js-fuer-alle-wissenswertes-fuer-einsteiger-und-experten-579861468.html)
 
 > [Amazon Link](https://www.amazon.de/Vue-js-f%C3%BCr-alle-Wissenswertes-Einsteiger-ebook/dp/B07HQF9VX4/ref=sr_1_1?ie=UTF8&qid=1538484852&sr=8-1&keywords=Vue-js-f%C3%BCr-alle-Wissenswertes-Einsteiger-ebook) - EPUB-ISBN: 978-3-86802-844-7
