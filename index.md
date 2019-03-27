@@ -14,7 +14,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 ## Printed articles:
 
-2019-04: Article about "Bausatz zur Automatisierung - GitLab-CI-Setup mit Vagrant und Ansible" in the category "Continuous Integration" published in the [iX Magazin für professionelle Informationstechnik 08/2018](https://www.heise.de/select/ix/2019/4/) ([article link](https://www.heise.de/select/ix/2019/4/1553945124716981))
+2019-04: Article about "Ansible testen mit Molecule: Testgetriebene Infrastrukturentsicklung mit Ansible und Molecule" in the category "Praxis" published in the [iX Magazin für professionelle Informationstechnik 08/2018](https://www.heise.de/select/ix/2019/4/) ([article link](https://www.heise.de/select/ix/2019/4/1553945124716981))
 
 > Mentions: [Twitter](https://twitter.com/jonashackt/status/1109018502994841600), [Molecule Maintainers](https://twitter.com/retr0h/status/1109139272638988288), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6515467026549469184)
 
