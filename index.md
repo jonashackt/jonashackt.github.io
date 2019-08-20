@@ -74,6 +74,9 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 ## blog.codecentric.de posts:
 
+2019-08: [Spring Boot on Heroku with Docker, JDK 11 & Maven 3.5.x
+](https://blog.codecentric.de/en/2019/08/spring-boot-heroku-docker-jdk11/)
+
 2019-01: [Continuous cloud infrastructure with Ansible, Molecule & TravisCI on AWS
 ](https://blog.codecentric.de/en/2019/01/ansible-molecule-travisci-aws/)
 
