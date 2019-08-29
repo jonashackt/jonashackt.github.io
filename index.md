@@ -5,7 +5,7 @@
 #layout: home
 ---
 
-Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java User Group Thüringen](https://www.meetup.com/jugthde/) ([@jugthde](https://twitter.com/jugthde)) or [IoT Thüringen Meetup](https://www.meetup.com/iothde/) ([@iothde](https://twitter.com/iothde)) or [DevOps Thüringen](https://www.meetup.com/devopsthde/) ([@devopsthde](https://twitter.com/devopsthde)). See you there!
+Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java User Group Thüringen](https://www.meetup.com/jugthde/) ([@jugthde](https://twitter.com/jugthde)) or [IoT Thüringen Meetup](https://www.meetup.com/iothde/) ([@iothde](https://twitter.com/iothde)) or [DevOps Thüringen](https://www.meetup.com/devopsthde/) ([@devopsthde](https://twitter.com/devopsthde)). See you there!
 
 
 <iframe width="380" height="214" src="https://www.youtube.com/embed/9F-qC2XFyAE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
