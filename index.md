@@ -16,7 +16,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your falvour: [Java
 
 2019-09: Article about "Molekular getestet - Continuous Integration für Ansible-Skripte" in the category "Praxis" published in the [iX Magazin für professionelle Informationstechnik 09/2019](https://www.heise.de/select/ix/2019/9/) ([article link](https://www.heise.de/select/ix/2019/9/1910609583831419651))
 
-![ix-2018-08]({{ site.url }}/assets/ix-2019-09.png)
+![ix-2019-09]({{ site.url }}/assets/ix-2019-09.jpeg)
 
 2019-04: Article about "Ansible testen mit Molecule: Testgetriebene Infrastrukturentsicklung mit Ansible und Molecule" in the category "Praxis" published in the [iX Magazin für professionelle Informationstechnik 04/2019](https://www.heise.de/select/ix/2019/4/) ([article link](https://www.heise.de/select/ix/2019/4/1553945124716981))
 
