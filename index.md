@@ -145,6 +145,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Talks & Workshops:
 
+2019-11: Talking about *"Infrastructure-as-Code with Pulumi - Better than all the others (like Ansible)?"* @ [ContainerConf / Continuous Lifecycle 2019 in Mannheim](https://www.continuouslifecycle.de/lecture.php?id=9971&source=0)
+
 2019-03: Talking about *"Test-driven infrastructure Development
 and Continuous Infrastructure with Ansible
 and Molecule"* @ [Ansible Meetup Dresden](https://www.meetup.com/de-DE/Ansible-Dresden/events/259121696/) @ [TU Dresden - Zentrum für Informationsdienste und Hochleistungsrechnen](https://tu-dresden.de/zih)
