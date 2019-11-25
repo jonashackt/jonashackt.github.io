@@ -208,9 +208,9 @@ and Molecule"* @ [DevOps Thüringen Meetup](https://www.meetup.com/de-DE/devopst
 
 
 ## Socials:
-<span class="icon icon--github">{% include icon-twitter.svg %}</span> [twitter.com/jonashackt](https://twitter.com/jonashackt) 
+[twitter.com/jonashackt](https://twitter.com/jonashackt) 
 
-<span class="icon icon--github">{% include icon-github.svg %}</span> [github.com/jonashackt](https://github.com/jonashackt)
+[github.com/jonashackt](https://github.com/jonashackt)
 
 [keybase.io/jonashackt](https://keybase.io/jonashackt)
 
