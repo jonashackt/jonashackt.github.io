@@ -145,6 +145,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Talks & Workshops:
 
+2020-01: Talking about *"Infrastructure-as-Code with Pulumi - Better than all the others (like Ansible)?"* @ [DevOps Thüringen Meetup on 01/21/2020](https://www.meetup.com/de-DE/devopsthde/events/267646463/) @ [ifesca Ilmenau](https://www.ifesca.de/)
+
 2019-11: Talking about *"Infrastructure-as-Code with Pulumi - Better than all the others (like Ansible)?"* @ [ContainerConf / Continuous Lifecycle 2019 in Mannheim](https://www.continuouslifecycle.de/lecture.php?id=9971&source=0)
 
 2019-03: Talking about *"Test-driven infrastructure Development
