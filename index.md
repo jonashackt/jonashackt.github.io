@@ -80,6 +80,10 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## blog.codecentric.de posts:
 
+2020-05: [Running Spring Boot apps as GraalVM Native Images](https://blog.codecentric.de/en/2020/05/spring-boot-graalvm/)
+
+> Mentions: "Running Spring Boot apps as GraalVM Native Images - codecentric AG Blog" [This Week in Spring - May 30th, 2017](https://spring.io/blog/2020/05/12/this-week-in-spring-may-12th-2020) ([spring.io/blog](https://spring.io/blog))
+
 2019-08: [Spring Boot on Heroku with Docker, JDK 11 & Maven 3.5.x
 ](https://blog.codecentric.de/en/2019/08/spring-boot-heroku-docker-jdk11/)
 
