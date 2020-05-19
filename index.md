@@ -82,7 +82,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2020-05: [Running Spring Boot apps as GraalVM Native Images](https://blog.codecentric.de/en/2020/05/spring-boot-graalvm/)
 
-> Mentions: "Running Spring Boot apps as GraalVM Native Images - codecentric AG Blog" [This Week in Spring - May 30th, 2017](https://spring.io/blog/2020/05/12/this-week-in-spring-may-12th-2020) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 333](https://www.baeldung.com/java-weekly-333) ([baeldung.com](https://www.baeldung.com/category/weekly-review/)) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6664229653529538560/) & [Twitter](https://twitter.com/jonashackt/status/1258336330494377984?s=20)
+> Mentions: "Running Spring Boot apps as GraalVM Native Images - codecentric AG Blog" [This Week in Spring - May 12th, 2020](https://spring.io/blog/2020/05/12/this-week-in-spring-may-12th-2020) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 333](https://www.baeldung.com/java-weekly-333) ([baeldung.com](https://www.baeldung.com/category/weekly-review/)) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6664229653529538560/) & [Twitter](https://twitter.com/jonashackt/status/1258336330494377984?s=20)
 
 2019-08: [Spring Boot on Heroku with Docker, JDK 11 & Maven 3.5.x
 ](https://blog.codecentric.de/en/2019/08/spring-boot-heroku-docker-jdk11/)
