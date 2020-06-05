@@ -82,7 +82,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2020-06: [Running Spring Boot GraalVM Native Images with Docker & Heroku](https://blog.codecentric.de/en/2020/06/spring-boot-graalvm-docker-heroku/)
 
-> Mentions: "Running Spring Boot GraalVM Native Images with Docker & Heroku" [This Week in Spring - June 2, 2020](https://spring.io/blog/2020/06/03/this-week-in-spring-june-2-2020) ([spring.io/blog](https://spring.io/blog)) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6673602818261225472/) & [Twitter](https://twitter.com/jonashackt/status/1267724820080480257?s=20)
+> Mentions: "Running Spring Boot GraalVM Native Images with Docker & Heroku" [This Week in Spring - June 2, 2020](https://spring.io/blog/2020/06/03/this-week-in-spring-june-2-2020) ([spring.io/blog](https://spring.io/blog))& "And a nice write-up that's sure to help with the more nuanced aspects such as the Docker multi-stage build." [Java Web Weekly, Issue 336](https://www.baeldung.com/java-weekly-336) ([baeldung.com](https://www.baeldung.com/category/weekly-review/)) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6673602818261225472/) & [Twitter](https://twitter.com/jonashackt/status/1267724820080480257?s=20)
 
 2020-05: [Running Spring Boot apps as GraalVM Native Images](https://blog.codecentric.de/en/2020/05/spring-boot-graalvm/)
 
