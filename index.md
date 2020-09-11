@@ -14,6 +14,12 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Printed articles:
 
+2020-08: Article about "Langsam war gestern! - GraalVM Native Image macht Spring-Boot Anwendungen Beine" in the Cover story about Spring Boot published in the [Java Magazin 09/2020](https://jaxenter.de/ausgaben/java-magazin-9-20) ([article link](https://kiosk.entwickler.de/java-magazin/java-magazin-9-2020/langsam-war-gestern/))
+
+> Mentions: "Jonas Hecht on Twitter: "FINALLY (while attending #springone 😍) I got my hands on the 09.2020 release of the @JavaMagazin 🤩🤩 containing my article abt @springboot & @graalvm beeing featured as part of the @springframework #coverstory 🙈🥳" [This Week in Spring - September 8th, 2020](https://spring.io/blog/2020/09/09/this-week-in-spring-september-8th-2020) ([spring.io/blog](https://spring.io/blog))
+
+![java-magazin-9.2020]({{ site.url }}/assets/java-magazin-9.2020.jpg)
+
 2019-09: Article about "Molekular getestet - Continuous Integration für Ansible-Skripte" in the category "Praxis" published in the [iX Magazin für professionelle Informationstechnik 09/2019](https://www.heise.de/select/ix/2019/9/) ([article link](https://www.heise.de/select/ix/2019/9/1910609583831419651))
 
 > The [full article](https://www.codecentric.de/publikation/testgetriebene-infrastrukturentwicklung-mit-ansible-und-molecule/) has been made available to [public by codecentric here](https://public.centerdevice.de/a6fffeb2-c609-4ca5-a69f-36e17b747c39)
