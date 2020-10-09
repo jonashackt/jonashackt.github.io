@@ -223,6 +223,10 @@ and Molecule"* @ [DevOps Thüringen Meetup](https://www.meetup.com/de-DE/devopst
 
 > Awards: Prof. Dr. Norbert Siegmund and I won the "Lehrpreis 2018" at the media faculty at Bauhaus-Universität Weimar, which was handed over on the [Tag der Lehre 2019](https://www.uni-weimar.de/de/universitaet/aktuell/jaehrliche-veranstaltungen/jaehrliche-veranstaltungen-2019/tag-der-lehre-2019/)
 
+> Mentions (06.2020): Launch articles [Ferienspass mit dem Ferienpass](https://www.thueringer-allgemeine.de/regionen/weimar/ferienspass-mit-dem-ferienpass-id229327108.html)
+
+> Mentions (07.2018): [Ferienpass bietet jede Menge Spaß für 175 Mädchen und Jungen](https://www.thueringer-allgemeine.de/leben/vermischtes/ferienpass-bietet-jede-menge-spass-fuer-175-maedchen-und-jungen-id224383479.html)
+
 > Mentions: In the local press [Thüringer Allgemeine 2018-01-17](http://www.thueringer-allgemeine.de/web/zgt/suche/detail/-/specific/Lange-Schlange-im-Kinderbuero-war-der-Ausloeser-168601916) & [Thüringische Landeszeitung 2018-01-17](http://weimar.tlz.de/web/weimar/startseite/detail/-/specific/Lange-Schlange-im-Kinderbuero-war-der-Ausloeser-168601916) & [BAUHAUS.JOURNAL ONLINE 2018-01-16](https://www.uni-weimar.de/de/universitaet/aktuell/bauhausjournal-online/titel/projektpraesentation-medieninformatik-studierende-entwickeln-online-anmeldung-fuer-weimarer-ferienpas-1/) & [Focus Online](https://www.focus.de/regional/thueringen/bauhaus-universitaet-weimar-meldung-vom-16-01-2018_id_8309726.html) & [codecentric.de](https://www.codecentric.de/2018/01/17/schoenere-ferien-dank-digitalisierung/) & [final celebration, Focus Online](https://www.focus.de/regional/thueringen/stadt-weimar-dank-an-die-foerderer-des-ferienpass-weimar-2018_id_9230231.html)
 
 2017-01: Giving a lecture about *"Real life software engineering"* @ [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/medien/professuren/intelligente-softwaresysteme/)
