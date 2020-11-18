@@ -88,6 +88,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## blog.codecentric.de posts:
 
+2020-11: [Spring Boot Apps with Kong API Gateway using OpenAPI & Declarative Configuration](https://blog.codecentric.de/en/2020/11/spring-boot-kong/)
+
 2020-06: [Simplifying Spring Boot GraalVM Native Image builds with the native-image-maven-plugin](https://blog.codecentric.de/en/2020/06/spring-boot-graalvm-native-image-maven-plugin/)
 
 > Mentions: "A great post on the Codecentric AG blog: Simplifying Spring Boot GraalVM Native Image builds with the native-image-maven-plugin" [This Week in Spring - June 23, 2020](https://spring.io/blog/2020/06/23/this-week-in-spring-june-23-2020) ([spring.io/blog](https://spring.io/blog))& "Making it easier to build GraalVM native images using the native-image-maven-plugin." [Java Web Weekly, Issue 339](https://www.baeldung.com/java-weekly-339) ([baeldung.com](https://www.baeldung.com/category/weekly-review/)) & [LinkedIn](https://www.linkedin.com/posts/jonashecht_springboot-nativeimages-simplifying-activity-6679272950451048448-KT_4) & [Twitter](https://twitter.com/jonashackt/status/1273499680027049984?s=20)
