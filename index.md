@@ -24,7 +24,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2019-09: Article about "Molekular getestet - Continuous Integration für Ansible-Skripte" in the category "Praxis" published in the [iX Magazin für professionelle Informationstechnik 09/2019](https://www.heise.de/select/ix/2019/9/) ([article link](https://www.heise.de/select/ix/2019/9/1910609583831419651))
 
-> The [full article](https://www.codecentric.de/publikation/testgetriebene-infrastrukturentwicklung-mit-ansible-und-molecule/) has been made available to [public by codecentric here](https://public.centerdevice.de/a6fffeb2-c609-4ca5-a69f-36e17b747c39)
+> The [full article](https://www.codecentric.de/wissen/publikation/infrastructure-as-code-continuous-integration-fuer-ansible-skripte) has been made available to [public by codecentric here](https://public.centerdevice.de/a6fffeb2-c609-4ca5-a69f-36e17b747c39)
 
 ![ix-2019-09]({{ site.url }}/assets/ix-2019-09.jpeg)
 
@@ -90,9 +90,11 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2020-11: [Spring Boot Apps with Kong API Gateway using OpenAPI & Declarative Configuration](https://blog.codecentric.de/en/2020/11/spring-boot-kong/)
 
+> Mentions: "Spring Boot and Kong - another great post by Jonas Hecht over on Codecentric" [This Week in Spring - November 17th, 2020](https://spring.io/blog/2020/11/18/this-week-in-spring-november-17th-2020) ([spring.io/blog](https://spring.io/blog))
+
 2020-06: [Simplifying Spring Boot GraalVM Native Image builds with the native-image-maven-plugin](https://blog.codecentric.de/en/2020/06/spring-boot-graalvm-native-image-maven-plugin/)
 
-> Mentions: "A great post on the Codecentric AG blog: Simplifying Spring Boot GraalVM Native Image builds with the native-image-maven-plugin" [This Week in Spring - June 23, 2020](https://spring.io/blog/2020/06/23/this-week-in-spring-june-23-2020) ([spring.io/blog](https://spring.io/blog))& "Making it easier to build GraalVM native images using the native-image-maven-plugin." [Java Web Weekly, Issue 339](https://www.baeldung.com/java-weekly-339) ([baeldung.com](https://www.baeldung.com/category/weekly-review/)) & [LinkedIn](https://www.linkedin.com/posts/jonashecht_springboot-nativeimages-simplifying-activity-6679272950451048448-KT_4) & [Twitter](https://twitter.com/jonashackt/status/1273499680027049984?s=20)
+> Mentions: "A great post on the Codecentric AG blog: Simplifying Spring Boot GraalVM Native Image builds with the native-image-maven-plugin" [This Week in Spring - June 23, 2020](https://spring.io/blog/2020/06/23/this-week-in-spring-june-23-2020) ([spring.io/blog](https://spring.io/blog)) & "Making it easier to build GraalVM native images using the native-image-maven-plugin." [Java Web Weekly, Issue 339](https://www.baeldung.com/java-weekly-339) ([baeldung.com](https://www.baeldung.com/category/weekly-review/)) & [LinkedIn](https://www.linkedin.com/posts/jonashecht_springboot-nativeimages-simplifying-activity-6679272950451048448-KT_4) & [Twitter](https://twitter.com/jonashackt/status/1273499680027049984?s=20)
 
 2020-06: [Running Spring Boot GraalVM Native Images with Docker & Heroku](https://blog.codecentric.de/en/2020/06/spring-boot-graalvm-docker-heroku/)
 
