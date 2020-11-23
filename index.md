@@ -90,7 +90,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2020-11: [Spring Boot Apps with Kong API Gateway using OpenAPI & Declarative Configuration](https://blog.codecentric.de/en/2020/11/spring-boot-kong/)
 
-> Mentions: "Spring Boot and Kong - another great post by Jonas Hecht over on Codecentric" [This Week in Spring - November 17th, 2020](https://spring.io/blog/2020/11/18/this-week-in-spring-november-17th-2020) ([spring.io/blog](https://spring.io/blog))
+> Mentions: "Spring Boot and Kong - another great post by Jonas Hecht over on Codecentric" [This Week in Spring - November 17th, 2020](https://spring.io/blog/2020/11/18/this-week-in-spring-november-17th-2020) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 360](https://www.baeldung.com/java-weekly-360) ([baeldung.com](https://www.baeldung.com/category/weekly-review/))
 
 2020-06: [Simplifying Spring Boot GraalVM Native Image builds with the native-image-maven-plugin](https://blog.codecentric.de/en/2020/06/spring-boot-graalvm-native-image-maven-plugin/)
 
