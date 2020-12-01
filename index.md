@@ -88,6 +88,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## blog.codecentric.de posts:
 
+2020-11: [Goodbye Dockerfile: Cloud Native Buildpacks with Paketo.io & layered jars for Spring Boot](https://blog.codecentric.de/en/2020/11/buildpacks-spring-boot/)
+
 2020-11: [Spring Boot Apps with Kong API Gateway using OpenAPI & Declarative Configuration](https://blog.codecentric.de/en/2020/11/spring-boot-kong/)
 
 > Mentions: "Spring Boot and Kong - another great post by Jonas Hecht over on Codecentric" [This Week in Spring - November 17th, 2020](https://spring.io/blog/2020/11/18/this-week-in-spring-november-17th-2020) ([spring.io/blog](https://spring.io/blog)) & [Java Web Weekly, Issue 360](https://www.baeldung.com/java-weekly-360) ([baeldung.com](https://www.baeldung.com/category/weekly-review/))
