@@ -88,7 +88,11 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## blog.codecentric.de posts:
 
+2021-03: [Publishing Docker images to GitHub Container Registry with GitHub Actions](https://blog.codecentric.de/en/2021/03/github-container-registry/)
+
 2021-02: [GitHub Actions CI pipeline: GitHub Packages, Codecov, release to Maven Central & GitHub](https://blog.codecentric.de/en/2021/02/github-actions-pipeline/)
+
+> Mentions: "Great article! We've added to our resources section for other users to learn from." [Codecov official resources](https://about.codecov.io/resources/) & "GitHub Actions CI pipeline: GitHub Packages, Codecov etc." [This Week in Spring - February 23rd, 2021](https://spring.io/blog/2021/02/23/this-week-in-spring-february-23rd-2021) ([spring.io/blog](https://spring.io/blog)) & ">> GitHub Actions CI pipeline: GitHub Packages, Codecov, release to Maven Central & GitHub " [Java Web Weekly, Issue 374](https://www.baeldung.com/java-weekly-374) ([baeldung.com](https://www.baeldung.com/category/weekly-review/)) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6769519579149410304/) & [Twitter](https://twitter.com/jonashackt/status/1363749455950974976)
 
 2020-11: [Goodbye Dockerfile: Cloud Native Buildpacks with Paketo.io & layered jars for Spring Boot](https://blog.codecentric.de/en/2020/11/buildpacks-spring-boot/)
 
