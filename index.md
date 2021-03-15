@@ -88,6 +88,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## blog.codecentric.de posts:
 
+2021-03: [Stop re-writing pipelines! Why GitHub Actions drive the future of CI/CD](https://blog.codecentric.de/en/2021/03/github-actions-nextgen-cicd/)
+
 2021-03: [Publishing Docker images to GitHub Container Registry with GitHub Actions](https://blog.codecentric.de/en/2021/03/github-container-registry/)
 
 2021-02: [GitHub Actions CI pipeline: GitHub Packages, Codecov, release to Maven Central & GitHub](https://blog.codecentric.de/en/2021/02/github-actions-pipeline/)
