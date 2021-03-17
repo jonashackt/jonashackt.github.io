@@ -90,6 +90,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2021-03: [Stop re-writing pipelines! Why GitHub Actions drive the future of CI/CD](https://blog.codecentric.de/en/2021/03/github-actions-nextgen-cicd/)
 
+> Mentions: [Reddit](https://www.reddit.com/r/devops/comments/m5n6it/stop_rewriting_pipelines_why_github_actions_drive/) & [LinkedIn](https://www.linkedin.com/posts/lilli-seyther-besecke_actions-stop-pipelines-activity-6777172608837316608-Zv3u) & [Twitter](https://twitter.com/jonashackt/status/1371360570029539332?s=20)
+
 2021-03: [Publishing Docker images to GitHub Container Registry with GitHub Actions](https://blog.codecentric.de/en/2021/03/github-container-registry/)
 
 2021-02: [GitHub Actions CI pipeline: GitHub Packages, Codecov, release to Maven Central & GitHub](https://blog.codecentric.de/en/2021/02/github-actions-pipeline/)
