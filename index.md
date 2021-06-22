@@ -14,6 +14,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Printed articles:
 
+2020-12: Article about "Langsam war gestern! - GraalVM Native Image macht Spring-Boot Anwendungen Beine" published in the [Softwerker Vol. 16](https://info.codecentric.de/softwerker-vol-16) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine 
+
 2020-08: Article about "Langsam war gestern! - GraalVM Native Image macht Spring-Boot Anwendungen Beine" in the Cover story about Spring Boot published in the [Java Magazin 09/2020](https://jaxenter.de/ausgaben/java-magazin-9-20) ([article link](https://kiosk.entwickler.de/java-magazin/java-magazin-9-2020/langsam-war-gestern/))
 
 > Mentions: "Jonas Hecht on Twitter: "FINALLY (while attending #springone 😍) I got my hands on the 09.2020 release of the @JavaMagazin 🤩🤩 containing my article abt @springboot & @graalvm beeing featured as part of the @springframework #coverstory 🙈🥳" [This Week in Spring - September 8th, 2020](https://spring.io/blog/2020/09/09/this-week-in-spring-september-8th-2020) ([spring.io/blog](https://spring.io/blog))
