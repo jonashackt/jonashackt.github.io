@@ -237,11 +237,11 @@ and Molecule"* @ [DevOps Thüringen Meetup](https://www.meetup.com/de-DE/devopst
 
 ## Lectures & Projects with Students 
 
-2020-10: Adjunct Lecturer @ [FH-Erfurt](https://www.fh-erfurt.de/fhe/) [Institute for Applied Information Sciences (AI)](https://www.ai.fh-erfurt.de/): Giving Programming with Java 1 - Development of all practical project is fully OpenSource on https://github.com/fh-erfurt - There are also some [YouTube recordings](https://www.youtube.com/playlist?list=PLOnZJrTMRCeascx3KPiwXTJNdY6lWoIsU)
+2020-10: Adjunct Lecturer @ [FH-Erfurt](https://www.fh-erfurt.de/fhe/) [Institute for Applied Information Sciences (AI)](https://www.ai.fh-erfurt.de/): Giving Programming with Java 1 - Development of all practical project is fully OpenSource on [github.com/fh-erfurt](https://github.com/fh-erfurt) - There are also some [YouTube recordings](https://www.youtube.com/playlist?list=PLOnZJrTMRCeascx3KPiwXTJNdY6lWoIsU)
 
-2020-04: Adjunct Lecturer @ [FH-Erfurt](https://www.fh-erfurt.de/fhe/) [Institute for Applied Information Sciences (AI)](https://www.ai.fh-erfurt.de/): Giving Programming with Java 2 - Development of all practical project is fully OpenSource on https://github.com/fh-erfurt
+2020-04: Adjunct Lecturer @ [FH-Erfurt](https://www.fh-erfurt.de/fhe/) [Institute for Applied Information Sciences (AI)](https://www.ai.fh-erfurt.de/): Giving Programming with Java 2 - Development of all practical project is fully OpenSource on [github.com/fh-erfurt](https://github.com/fh-erfurt)
 
-2019-10: Adjunct Lecturer @ [FH-Erfurt](https://www.fh-erfurt.de/fhe/) [Institute for Applied Information Sciences (AI)](https://www.ai.fh-erfurt.de/): Giving Programming with Java 1 - Development of all practical project is fully OpenSource on https://github.com/fh-erfurt - There are also some [YouTube recordings](https://www.youtube.com/playlist?list=PLOnZJrTMRCeascx3KPiwXTJNdY6lWoIsU)
+2019-10: Adjunct Lecturer @ [FH-Erfurt](https://www.fh-erfurt.de/fhe/) [Institute for Applied Information Sciences (AI)](https://www.ai.fh-erfurt.de/): Giving Programming with Java 1 - Development of all practical project is fully OpenSource on [github.com/fh-erfurt](https://github.com/fh-erfurt) - There are also some [YouTube recordings](https://www.youtube.com/playlist?list=PLOnZJrTMRCeascx3KPiwXTJNdY6lWoIsU)
 
 2019-01: Giving a lecture about *"Real life software engineering"* @ [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/medien/professuren/intelligente-softwaresysteme/)
 
