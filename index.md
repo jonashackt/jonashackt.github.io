@@ -14,6 +14,10 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Printed articles:
 
+2021-09: Article about "Schöner Verpacken - Container Images: Abschied vom Dockerfile (Cloud Native Buildpacks/Paketo.io)" in the category "Qualitätssicherung" published in the [iX Developer "Besserer Code" Sommer 2021](https://www.heise.de/select/ix-special/archiv/2021/14) ([article link](https://www.heise.de/select/ix-special/archiv/2021/14/seite-70))
+
+![ix-developer_summer2021_buildpacks]({{ site.url }}/assets/ix-developer_summer2021_buildpacks.jpg)
+
 2020-12: Article about "Langsam war gestern! - GraalVM Native Image macht Spring-Boot Anwendungen Beine" published in the [Softwerker Vol. 16](https://info.codecentric.de/softwerker-vol-16) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine 
 
 2020-08: Article about "Langsam war gestern! - GraalVM Native Image macht Spring-Boot Anwendungen Beine" in the Cover story about Spring Boot published in the [Java Magazin 09/2020](https://jaxenter.de/ausgaben/java-magazin-9-20) ([article link](https://kiosk.entwickler.de/java-magazin/java-magazin-9-2020/langsam-war-gestern/))
