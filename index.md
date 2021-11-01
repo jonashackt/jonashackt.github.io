@@ -96,6 +96,14 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## blog.codecentric.de posts:
 
+2021-10: [Cloud Native Buildpacks / Paketo.io in GitLab CI without Docker & pack CLI](https://blog.codecentric.de/en/2021/10/gitlab-ci-paketo-buildpacks/)
+
+> Mentions: "I love this post: Cloud Native Buildpacks / Paketo.io in GitLab CI without Docker & pack CLI" [Josh Long with a separate post](https://twitter.com/starbuxman/status/1452662520666279940) & "These are the kinds of general-purpose use cases the Paketo team has envisioned. Thanks for pushing the boundaries on the tech, @jonashackt! Keep working... Happy to support you in any way we can. Cheers!" [Paketo_io on Twitter](https://twitter.com/Paketo_io/status/1453027137817096199) & "Cloud Native Buildpacks / Paketo.io in GitLab CI without Docker & pack CLI" [This Week in Spring - October 26th, 2021](https://spring.io/blog/2021/10/26/this-week-in-spring-october-26th-2021) ([spring.io/blog](https://spring.io/blog)) & [LinkedIn](https://www.linkedin.com/posts/jonashecht_cloudnative-buildpacks-paketo-activity-6858449784953413632-2sxF) & [Twitter](https://twitter.com/jonashackt/status/1452556265805262852)
+
+> Very funny mention by [GitLab on Twitter](https://twitter.com/gitlab/status/1452708407245299712):
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"> <a href="https://t.co/BUdTnH5Rtv">pic.twitter.com/BUdTnH5Rtv</a></p>&mdash; 🦊 GitLab (@gitlab) <a href="https://twitter.com/gitlab/status/1452708407245299712?ref_src=twsrc%5Etfw">October 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 2021-03: [Stop re-writing pipelines! Why GitHub Actions drive the future of CI/CD](https://blog.codecentric.de/en/2021/03/github-actions-nextgen-cicd/)
 
 > Mentions: [daily.dev](https://app.daily.dev/posts/IE6btW_N8) & [Reddit](https://www.reddit.com/r/devops/comments/m5n6it/stop_rewriting_pipelines_why_github_actions_drive/) & [LinkedIn](https://www.linkedin.com/posts/lilli-seyther-besecke_actions-stop-pipelines-activity-6777172608837316608-Zv3u) & [Twitter](https://twitter.com/jonashackt/status/1371360570029539332?s=20)
