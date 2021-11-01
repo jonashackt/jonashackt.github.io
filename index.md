@@ -273,25 +273,6 @@ and Molecule"* @ [DevOps Thüringen Meetup](https://www.meetup.com/de-DE/devopst
 
 
 
-## Socials:
-[twitter.com/jonashackt](https://twitter.com/jonashackt) 
-
-[github.com/jonashackt](https://github.com/jonashackt)
-
-[keybase.io/jonashackt](https://keybase.io/jonashackt)
-
-[stackoverflow.com/users/4964553/jonashackt](http://stackoverflow.com/users/4964553/jonashackt)
-
-[hub.docker.com/u/jonashackt](https://hub.docker.com/u/jonashackt)
-
-[linkedin.com/in/jonashecht/](https://www.linkedin.com/in/jonashecht/)
-
-[xing.com/profile/Jonas_Hecht](https://www.xing.com/profile/Jonas_Hecht)
-
-[slides.com/jonashackt](https://slides.com/jonashackt) /// [slideshare.net](https://www.slideshare.net/JonasHecht1)
-
-[strava.com profile](https://www.strava.com/athletes/16787462)
-
 ## About me
 
 ![jonas_hecht_ganzklein]({{ site.url }}/assets/jonas_hecht_ganzklein.jpg)
