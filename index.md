@@ -195,6 +195,9 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 2015-12: [MicroPlode – A Microservices Experiment](https://blog.codecentric.de/en/2015/12/microplode-microservices-dialogue/) (together with [Thomas](https://twitter.com/sgTom42) & [Bastian](https://twitter.com/bastiankrol))
 
 
+## Podcasts:
+
+2021-11: Podcast on software engineering in practice - [Chair of Software Systems at Leipzig University](https://sws.informatik.uni-leipzig.de/): "Second episode of our podcast on software engineering in practice: [Jonas Hecht (codecentric AG) talks about the origin of CI/CD and the role of DevOps. We further discuss the trend toward cloud-hosted software and give hints on how to prepare for an industry job&interview.](https://sws.informatik.uni-leipzig.de/wp-content/uploads/2021/11/InterviewJonasHecht20211124.mp3)"
 
 
 ## Talks & Workshops:
