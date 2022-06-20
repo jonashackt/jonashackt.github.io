@@ -96,6 +96,10 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## blog.codecentric.de posts:
 
+2022-06: [Development Containers & GitHub Codespaces kill the “works on my machine” problem](https://blog.codecentric.de/en/2022/06/dev-containers-github-codespaces/)
+
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_development-containers-codespaces-activity-6942026365789474817-VhGu) & [LinkedIn 2nd](https://www.linkedin.com/posts/jonashecht_usecases-devcontainerprovider-localhost-activity-6943235549813989376-uzDJ) & [Twitter](https://twitter.com/jonashackt/status/1536258190152720384)
+
 2021-10: [Cloud Native Buildpacks / Paketo.io in GitLab CI without Docker & pack CLI](https://blog.codecentric.de/en/2021/10/gitlab-ci-paketo-buildpacks/)
 
 > Mentions: "I love this post: Cloud Native Buildpacks / Paketo.io in GitLab CI without Docker & pack CLI" [Josh Long with a separate post](https://twitter.com/starbuxman/status/1452662520666279940) & "These are the kinds of general-purpose use cases the Paketo team has envisioned. Thanks for pushing the boundaries on the tech, @jonashackt! Keep working... Happy to support you in any way we can. Cheers!" [Paketo_io on Twitter](https://twitter.com/Paketo_io/status/1453027137817096199) & "Cloud Native Buildpacks / Paketo.io in GitLab CI without Docker & pack CLI" [This Week in Spring - October 26th, 2021](https://spring.io/blog/2021/10/26/this-week-in-spring-october-26th-2021) ([spring.io/blog](https://spring.io/blog)) & [LinkedIn](https://www.linkedin.com/posts/jonashecht_cloudnative-buildpacks-paketo-activity-6858449784953413632-2sxF) & [Twitter](https://twitter.com/jonashackt/status/1452556265805262852)
