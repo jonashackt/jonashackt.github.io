@@ -98,7 +98,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2022-06: [Development Containers & GitHub Codespaces kill the “works on my machine” problem](https://blog.codecentric.de/en/2022/06/dev-containers-github-codespaces/)
 
-> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_development-containers-codespaces-activity-6942026365789474817-VhGu) & [LinkedIn 2nd](https://www.linkedin.com/posts/jonashecht_usecases-devcontainerprovider-localhost-activity-6943235549813989376-uzDJ) & [Twitter](https://twitter.com/jonashackt/status/1536258190152720384)
+> Mentions: [Podcast Ready for Review](https://twitter.com/readyforreview/status/1540705816663281666?s=20&t=Wb_6yubsa4KVAr3kZoGiqg) & [LinkedIn](https://www.linkedin.com/posts/jonashecht_development-containers-codespaces-activity-6942026365789474817-VhGu) & [LinkedIn 2nd](https://www.linkedin.com/posts/jonashecht_usecases-devcontainerprovider-localhost-activity-6943235549813989376-uzDJ) & [Twitter](https://twitter.com/jonashackt/status/1536258190152720384)
 
 2021-10: [Cloud Native Buildpacks / Paketo.io in GitLab CI without Docker & pack CLI](https://blog.codecentric.de/en/2021/10/gitlab-ci-paketo-buildpacks/)
 
