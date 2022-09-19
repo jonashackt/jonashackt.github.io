@@ -96,6 +96,10 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## blog.codecentric.de posts:
 
+2022-09: [ Heroku is dead: Let’s deploy Spring Boot containers on fly.io!](https://blog.codecentric.de/en/2022/09/spring-boot-flyio/)
+
+> Mentions: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6977555032929878016) & [Twitter](https://twitter.com/jonashackt/status/1571783355976278016?s=20&t=OPATu8DFDXztUAzk1r8vXQ)
+
 2022-07: [Tame the multi-cloud beast with Crossplane: Let’s start with AWS S3](https://blog.codecentric.de/en/2022/07/crossplane/)
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_crossplane-kubernetes-infrastructure-activity-6949625771808198656-Kkqz) & [Twitter](https://twitter.com/jonashackt/status/1543858140726366209)
