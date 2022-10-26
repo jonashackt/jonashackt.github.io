@@ -264,6 +264,8 @@ and Molecule"* @ [DevOps Thüringen Meetup](https://www.meetup.com/de-DE/devopst
 
 ## Lectures & Projects with Students 
 
+2021-01: Giving a lecture about *"DevOps"* @ [Universität Leipzig - Software Systeme Prof. Dr. Norbert Siegmund](https://sws.informatik.uni-leipzig.de/) - [Full recording on YouTube](https://www.youtube.com/watch?v=r7gr_V3dqf8) & [example code on GitHub](https://github.com/jonashackt/devopsdemo)
+
 2020-10: Adjunct Lecturer @ [FH-Erfurt](https://www.fh-erfurt.de/fhe/) [Institute for Applied Information Sciences (AI)](https://www.ai.fh-erfurt.de/): Giving Programming with Java 1 - Development of all practical project is fully OpenSource on [github.com/fh-erfurt](https://github.com/fh-erfurt) - There are also some [YouTube recordings](https://www.youtube.com/playlist?list=PLOnZJrTMRCeascx3KPiwXTJNdY6lWoIsU)
 
 2020-04: Adjunct Lecturer @ [FH-Erfurt](https://www.fh-erfurt.de/fhe/) [Institute for Applied Information Sciences (AI)](https://www.ai.fh-erfurt.de/): Giving Programming with Java 2 - Development of all practical project is fully OpenSource on [github.com/fh-erfurt](https://github.com/fh-erfurt)
