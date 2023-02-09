@@ -14,6 +14,14 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Printed articles:
 
+2023-02: Article about "GitOps für die Multi-Cloud - Crossplane: Cloud-native, deklarativ, Open Source" in the category "Praxis: GitOps" published in the [iX Magazin für professionelle Informationstechnik 02/2023](https://www.heise.de/select/ix/2023/2/) ([article link](https://www.heise.de/select/ix/2023/2/2229311495824699808))
+
+> Mentions: [Twitter](https://twitter.com/jonashackt/status/1618700000338538497), [LinkedIn](https://www.linkedin.com/posts/jonashecht_ix-magazin-frontcover-activity-7024462833736151040-Y3On), [XING](https://www.xing.com/discover/detail-activities/6724533518.095627)
+
+> The article also made it on the frontcover:
+
+![]({{ site.url }}/assets/ix-2023-02-frontcover-crossplane.jpg)
+
 2021-09: Article about "Schöner Verpacken - Container Images: Abschied vom Dockerfile (Cloud Native Buildpacks/Paketo.io)" in the category "Qualitätssicherung" published in the [iX Developer "Besserer Code" Sommer 2021](https://www.heise.de/select/ix-special/archiv/2021/14) ([article link](https://www.heise.de/select/ix-special/archiv/2021/14/seite-70))
 
 ![ix-developer_summer2021_buildpacks]({{ site.url }}/assets/ix-developer_summer2021_buildpacks.jpg)
