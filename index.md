@@ -14,6 +14,14 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Printed articles:
 
+2023-03: Article about "GitOps mit Crossplane: Crossplane: Provisionierung in AWS und Azure" published in the [iX Magazin für professionelle Informationstechnik 02/2023](https://www.heise.de/select/ix/2023/3/) ([article link](https://www.heise.de/select/ix/2023/3/2301817321782060678))
+
+> Mentions: [Twitter](https://twitter.com/jonashackt/status/1631560848807194627), [LinkedIn](https://www.linkedin.com/posts/jonashecht_crossplane-ixmagazin-aws-activity-7037325496254091264-XJew), [XING](https://www.xing.com/discover/detail-activities/6725653836.1e7a6a)
+
+> The article (again) made it on the frontcover (now 2 times in a row):
+
+![]({{ site.url }}/assets/ix-2023-02-03-frontcover-crossplane.jpg)
+
 2023-02: Article about "GitOps für die Multi-Cloud - Crossplane: Cloud-native, deklarativ, Open Source" in the category "Praxis: GitOps" published in the [iX Magazin für professionelle Informationstechnik 02/2023](https://www.heise.de/select/ix/2023/2/) ([article link](https://www.heise.de/select/ix/2023/2/2229311495824699808))
 
 > Mentions: [Twitter](https://twitter.com/jonashackt/status/1618700000338538497), [LinkedIn](https://www.linkedin.com/posts/jonashecht_ix-magazin-frontcover-activity-7024462833736151040-Y3On), [XING](https://www.xing.com/discover/detail-activities/6724533518.095627)
@@ -106,7 +114,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2022-09: [ Heroku is dead: Let’s deploy Spring Boot containers on fly.io!](https://blog.codecentric.de/en/2022/09/spring-boot-flyio/)
 
-> Mentions: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6977555032929878016) & [Twitter](https://twitter.com/jonashackt/status/1571783355976278016?s=20&t=OPATu8DFDXztUAzk1r8vXQ)
+> Mentions: "Heroku is dead: Let's deploy Spring Boot containers on fly.io!" [This Week in Spring - September 27th, 2022](https://spring.io/blog/2022/09/27/this-week-in-spring-september-27th-2022) ([spring.io/blog](https://spring.io/blog)) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6977555032929878016) & [Twitter](https://twitter.com/jonashackt/status/1571783355976278016?s=20&t=OPATu8DFDXztUAzk1r8vXQ)
+
 
 2022-07: [Tame the multi-cloud beast with Crossplane: Let’s start with AWS S3](https://blog.codecentric.de/en/2022/07/crossplane/)
 
