@@ -226,6 +226,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Podcasts:
 
+2022-12: Podcast on knowledge sharing in the IT: "Wie viel Wissen ist nötig, um Wissen zu teilen?" on the [Softwerker Cast](https://www.codecentric.de/softwerkercast) - [episode link](https://softwerkercast.podigee.io/11-wie-viel-wissen-ist-notig-um-wissen-zu-teilen)
+
 2021-11: Podcast on software engineering in practice - [Chair of Software Systems at Leipzig University](https://sws.informatik.uni-leipzig.de/): "Second episode of our podcast on software engineering in practice: [Jonas Hecht (codecentric AG) talks about the origin of CI/CD and the role of DevOps. We further discuss the trend toward cloud-hosted software and give hints on how to prepare for an industry job&interview.](https://sws.informatik.uni-leipzig.de/wp-content/uploads/2021/11/InterviewJonasHecht20211124.mp3)"
 
 
