@@ -26,7 +26,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2023-02: Article about "GitOps für die Multi-Cloud - Crossplane: Cloud-native, deklarativ, Open Source" in the category "Praxis: GitOps" published in the [iX Magazin für professionelle Informationstechnik 02/2023](https://www.heise.de/select/ix/2023/2/) ([article link](https://www.heise.de/select/ix/2023/2/2229311495824699808))
 
-> Mentions: [Twitter](https://twitter.com/jonashackt/status/1618700000338538497), [LinkedIn](https://www.linkedin.com/posts/jonashecht_ix-magazin-frontcover-activity-7024462833736151040-Y3On), [XING](https://www.xing.com/discover/detail-activities/6724533518.095627)
+> Mentions: [Twitter](https://twitter.com/jonashackt/status/1618700000338538497), [LinkedIn](https://www.linkedin.com/posts/jonashecht_ix-magazin-frontcover-activity-7024462833736151040-Y3On), [XING](https://www.xing.com/discover/detail-activities/6724533518.095627), [Upbound.io Twitter](https://twitter.com/upbound_io/status/1636732371771748354?t=D09u32PUn8okcrbdNNRVRQ&s=09), [Upbound.io LinkedIn](https://www.linkedin.com/posts/upbound-io_crossplane-gitops-f%C3%BCr-die-multi-cloud-activity-7042498167027765248-Xw_O)
 
 > The [full article](https://www.codecentric.de/wissen/publikation/gitops-fur-die-multi-cloud) has been made available to [public by codecentric here](https://public.centerdevice.de/6f87d79a-42d5-4257-833c-919989dff520)
 
