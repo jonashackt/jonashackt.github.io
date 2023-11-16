@@ -14,6 +14,12 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Printed articles:
 
+2023-11: Articles about "Deklarativ provisionieren: Crossplane hebt GitOps in die Multi-Cloud" & "Crossplane in der Praxis: IaC in AWS und Azure" published in the [iX Developer Cloud Native Special Herbst 2023](https://www.heise.de/select/ix/2023/14) ([first article link](https://www.heise.de/select/ix/2023/14/2322712211844746890) & [second article link](https://www.heise.de/select/ix/2023/14/2322712560958530730))
+
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_autumn-reading-ix-activity-7130828354349359104-7hg7), [X](https://x.com/jonashackt/status/1725086272799100934), [XING](https://www.xing.com/discover/detail-activities/6732620632.1b09ea)
+
+![]({{ site.url }}/assets/ix-developer-herbst2023-cloudnative-crossplane.jpg)
+
 2023-03: Article about "GitOps mit Crossplane: Crossplane: Provisionierung in AWS und Azure" published in the [iX Magazin für professionelle Informationstechnik 02/2023](https://www.heise.de/select/ix/2023/3/) ([article link](https://www.heise.de/select/ix/2023/3/2301817321782060678))
 
 > Mentions: [Twitter](https://twitter.com/jonashackt/status/1631560848807194627), [LinkedIn](https://www.linkedin.com/posts/jonashecht_crossplane-ixmagazin-aws-activity-7037325496254091264-XJew), [XING](https://www.xing.com/discover/detail-activities/6725653836.1e7a6a)
@@ -236,6 +242,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 
 ## Talks & Workshops:
+
+2023-05: Talking about *"Multi-Cloud Platform Engineering mit Crossplane"* @ [DevOps Thüringen Meetup on 05/10/2023](https://www.meetup.com/de-DE/devopsthde/events/293211158/) @ [Thüringer Landesrechenzentrum (TLRZ)](https://landesrechenzentrum.thueringen.de/)
 
 2020-01: Talking about *"Infrastructure-as-Code with Pulumi - Better than all the others (like Ansible)?"* @ [DevOps Thüringen Meetup on 01/21/2020](https://www.meetup.com/de-DE/devopsthde/events/267646463/) @ [ifesca Ilmenau](https://www.ifesca.de/)
 
