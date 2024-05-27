@@ -124,9 +124,11 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2024-05: [Testing Crossplane Compositions with kuttl Part 2: Given, When, Assert](https://www.codecentric.de/wissens-hub/blog/testing-crossplane-compositions-kuttl-part-2-given-when-assert)
 
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_crossplane-testing-given-activity-7200791173949534209-S7pA)
+ 
 2024-05: [Testing Crossplane Compositions with kuttl, Part 1: Preparing the TestSuite](https://www.codecentric.de/wissens-hub/blog/testing-crossplane-compositions-kuttl)
 
-> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_testing-crossplane-kubernetes-activity-7198658446999601152-ia_o) & [Twitter](https://x.com/jonashackt/status/1792895531712151642)
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_testing-crossplane-kubernetes-activity-7198658446999601152-ia_o)
 
 2022-09: [Heroku is dead: Let’s deploy Spring Boot containers on fly.io!](https://blog.codecentric.de/en/2022/09/spring-boot-flyio/)
 
