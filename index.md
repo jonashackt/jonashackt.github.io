@@ -122,6 +122,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## blog.codecentric.de posts:
 
+2024-05: [Testing Crossplane Compositions with kuttl Part 2: Given, When, Assert](https://www.codecentric.de/wissens-hub/blog/testing-crossplane-compositions-kuttl-part-2-given-when-assert)
+
 2024-05: [Testing Crossplane Compositions with kuttl, Part 1: Preparing the TestSuite](https://www.codecentric.de/wissens-hub/blog/testing-crossplane-compositions-kuttl)
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_testing-crossplane-kubernetes-activity-7198658446999601152-ia_o) & [Twitter](https://x.com/jonashackt/status/1792895531712151642)
@@ -129,7 +131,6 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 2022-09: [Heroku is dead: Let’s deploy Spring Boot containers on fly.io!](https://blog.codecentric.de/en/2022/09/spring-boot-flyio/)
 
 > Mentions: "Heroku is dead: Let's deploy Spring Boot containers on fly.io!" [This Week in Spring - September 27th, 2022](https://spring.io/blog/2022/09/27/this-week-in-spring-september-27th-2022) ([spring.io/blog](https://spring.io/blog)) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6977555032929878016) & [Twitter](https://twitter.com/jonashackt/status/1571783355976278016?s=20&t=OPATu8DFDXztUAzk1r8vXQ)
-
 
 2022-07: [Tame the multi-cloud beast with Crossplane: Let’s start with AWS S3](https://blog.codecentric.de/en/2022/07/crossplane/)
 
