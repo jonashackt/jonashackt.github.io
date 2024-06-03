@@ -122,6 +122,10 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## blog.codecentric.de posts:
 
+2024-06: [Create, build & publish Crossplane Configuration Packages with GitHub Actions & Container Registry](https://www.codecentric.de/wissens-hub/blog/crossplane-configuration-packages-github)
+
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_crossplane-configuration-packages-activity-7203305921433743360-osIr)
+
 2024-05: [Testing Crossplane Compositions with kuttl Part 2: Given, When, Assert](https://www.codecentric.de/wissens-hub/blog/testing-crossplane-compositions-kuttl-part-2-given-when-assert)
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_crossplane-testing-given-activity-7200791173949534209-S7pA)
@@ -249,6 +253,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 
 ## Talks & Workshops:
+
+2024-04: Talking about *"Multi-Cloud Platform Engineering mit Crossplane"* @ [Softwerkskammer Kassel Meetup on 04/25/2024](https://www.meetup.com/softwerkskammer-kassel/events/299917090/) @ [SMA Solar Technology in Kassel](https://www.sma.de/)
 
 2023-05: Talking about *"Multi-Cloud Platform Engineering mit Crossplane"* @ [DevOps Thüringen Meetup on 05/10/2023](https://www.meetup.com/de-DE/devopsthde/events/293211158/) @ [Thüringer Landesrechenzentrum (TLRZ)](https://landesrechenzentrum.thueringen.de/)
 
