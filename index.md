@@ -105,20 +105,6 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 2016-09: Article about "Spring Boot und Apache CXF - SOAP ohne XML?" published in the [Softwerker Vol. 8](https://www.codecentric.de/2016/09/09/softwerker-vol-8-ist-da/) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine
 
 
-## Online article posts:
-
-2021-03: [Container-Images: Abschied vom Dockerfile)](https://www.heise.de/hintergrund/Container-Images-Abschied-vom-Dockerfile-5997535.html) @ [heise developer](https://www.heise.de/developer/)
-
-2018-01: [Die hybdride Cloud mit Docker Swarm und Ansible (2/2)](https://www.heise.de/developer/artikel/Die-hybride-Cloud-mit-Docker-Swarm-und-Ansible-2-2-3929312.html) @ [heise developer](https://www.heise.de/developer/)
-
-2017-12: [Die hybdride Cloud mit Docker Swarm und Ansible (1/2)](https://www.heise.de/developer/artikel/Die-hybdride-Cloud-mit-Docker-Swarm-und-Ansible-Teil-1-3894131.html) @ [heise developer](https://www.heise.de/developer/)
-
-2017-09: [Docker-Windows-Container mit Ansible managen (2/2)](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-2-2-3838642.html) @ [heise developer](https://www.heise.de/developer/)
-
-2017-09: [Docker-Windows-Container mit Ansible managen (1/2)](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-1-2-3824736.html) @ [heise developer](https://www.heise.de/developer/)
-
-
-
 
 ## blog.codecentric.de posts:
 
@@ -245,7 +231,22 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 2015-12: [MicroPlode – A Microservices Experiment](https://blog.codecentric.de/en/2015/12/microplode-microservices-dialogue/) (together with [Thomas](https://twitter.com/sgTom42) & [Bastian](https://twitter.com/bastiankrol))
 
 
+## Online article posts:
+
+2021-03: [Container-Images: Abschied vom Dockerfile](https://www.heise.de/hintergrund/Container-Images-Abschied-vom-Dockerfile-5997535.html) @ [heise developer](https://www.heise.de/developer/)
+
+2018-01: [Die hybdride Cloud mit Docker Swarm und Ansible (2/2)](https://www.heise.de/developer/artikel/Die-hybride-Cloud-mit-Docker-Swarm-und-Ansible-2-2-3929312.html) @ [heise developer](https://www.heise.de/developer/)
+
+2017-12: [Die hybdride Cloud mit Docker Swarm und Ansible (1/2)](https://www.heise.de/developer/artikel/Die-hybdride-Cloud-mit-Docker-Swarm-und-Ansible-Teil-1-3894131.html) @ [heise developer](https://www.heise.de/developer/)
+
+2017-09: [Docker-Windows-Container mit Ansible managen (2/2)](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-2-2-3838642.html) @ [heise developer](https://www.heise.de/developer/)
+
+2017-09: [Docker-Windows-Container mit Ansible managen (1/2)](https://www.heise.de/developer/artikel/Docker-Windows-Container-mit-Ansible-managen-1-2-3824736.html) @ [heise developer](https://www.heise.de/developer/)
+
+
 ## Podcasts:
+
+2023-07: Podcast on knowledge sharing in the IT: "Crossplane zwischen Multi-Cloud und Platform Engineering" on the [Softwerker Cast](https://www.codecentric.de/softwerkercast) - [episode link](https://podcasters.spotify.com/pod/show/softwerkercast/episodes/Crossplane-zwischen-Multi-Cloud-und-Platform-Engineering-e26qf72)
 
 2022-12: Podcast on knowledge sharing in the IT: "Wie viel Wissen ist nötig, um Wissen zu teilen?" on the [Softwerker Cast](https://www.codecentric.de/softwerkercast) - [episode link](https://softwerkercast.podigee.io/11-wie-viel-wissen-ist-notig-um-wissen-zu-teilen)
 
