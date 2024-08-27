@@ -108,6 +108,10 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## blog.codecentric.de posts:
 
+2024-08: [From Classic CI/CD to GitOps with ArgoCD & Crossplane](https://www.codecentric.de/wissens-hub/blog/from-classic-cicd-to-gitops)
+
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_from-classic-cicd-to-gitops-with-argocd-activity-7234138650291191809-MK3z) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7234138697921630209)
+
 2024-06: [Create, build & publish Crossplane Configuration Packages with GitHub Actions & Container Registry](https://www.codecentric.de/wissens-hub/blog/crossplane-configuration-packages-github)
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_crossplane-configuration-packages-activity-7203305921433743360-osIr)
