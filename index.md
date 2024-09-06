@@ -264,6 +264,10 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Talks & Workshops:
 
+2024-09: Talking about *"Multi-Cloud Platform Engineering mit Crossplane"* @ [Tech&Talk Meetup on 09/03/2024](https://www.meetup.com/tech-n-talk-frankfurt/events/302549906) @ [codecentric AG in Frankfurt](https://www.codecentric.de/)
+
+> Mentions: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7237043765285195776/) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7236849013239484416) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7237132040817549312/)
+
 2024-04: Talking about *"Multi-Cloud Platform Engineering mit Crossplane"* @ [Softwerkskammer Kassel Meetup on 04/25/2024](https://www.meetup.com/softwerkskammer-kassel/events/299917090/) @ [SMA Solar Technology in Kassel](https://www.sma.de/)
 
 2023-05: Talking about *"Multi-Cloud Platform Engineering mit Crossplane"* @ [DevOps Thüringen Meetup on 05/10/2023](https://www.meetup.com/de-DE/devopsthde/events/293211158/) @ [Thüringer Landesrechenzentrum (TLRZ)](https://landesrechenzentrum.thueringen.de/)
