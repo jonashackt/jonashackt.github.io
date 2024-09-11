@@ -110,7 +110,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2024-09: [Going full GitOps with Crossplane & ArgoCD](https://www.codecentric.de/wissens-hub/blog/full-gitops-with-crossplane-and-argocd)
 
-> Mentions: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7238956785779249152) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7238956817307901955)
+> Mentions: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7238956785779249152) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7238956817307901955) & [X.com](https://x.com/jonashackt/status/1833192800331976740)
 
 2024-09: [Bootstrapping Crossplane with ArgoCD](https://www.codecentric.de/wissens-hub/blog/bootstrapping-crossplane-with-argocd)
 
@@ -118,7 +118,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2024-08: [From Classic CI/CD to GitOps with ArgoCD & Crossplane](https://www.codecentric.de/wissens-hub/blog/from-classic-cicd-to-gitops)
 
-> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_from-classic-cicd-to-gitops-with-argocd-activity-7234138650291191809-MK3z) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7234138697921630209) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7235198318774042624)
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_from-classic-cicd-to-gitops-with-argocd-activity-7234138650291191809-MK3z) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7234138697921630209) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7235198318774042624) & [X.com](https://x.com/jonashackt/status/1828382011234431201)
 
 2024-06: [Create, build & publish Crossplane Configuration Packages with GitHub Actions & Container Registry](https://www.codecentric.de/wissens-hub/blog/crossplane-configuration-packages-github)
 
@@ -130,7 +130,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
  
 2024-05: [Testing Crossplane Compositions with kuttl, Part 1: Preparing the TestSuite](https://www.codecentric.de/wissens-hub/blog/testing-crossplane-compositions-kuttl)
 
-> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_testing-crossplane-kubernetes-activity-7198658446999601152-ia_o)
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_testing-crossplane-kubernetes-activity-7198658446999601152-ia_o) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7239339867896266754/)
 
 2022-09: [Heroku is dead: Let’s deploy Spring Boot containers on fly.io!](https://blog.codecentric.de/en/2022/09/spring-boot-flyio/)
 
