@@ -110,7 +110,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2024-09: [Using External Secrets with Crossplane & ArgoCD](https://www.codecentric.de/wissens-hub/blog/crossplane-argocd-external-secrets)
 
-> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_externalsecrets-crossplane-argocd-activity-7246398363074535425-bZAf) & [X.com](https://x.com/jonashackt/status/1840749628280492479)
+> Mentions: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7239984835140755456/) & [LinkedIn](https://www.linkedin.com/posts/jonashecht_externalsecrets-crossplane-argocd-activity-7246398363074535425-bZAf) & [X.com](https://x.com/jonashackt/status/1840749628280492479)
 
 2024-09: [Going full GitOps with Crossplane & ArgoCD](https://www.codecentric.de/wissens-hub/blog/full-gitops-with-crossplane-and-argocd)
 
