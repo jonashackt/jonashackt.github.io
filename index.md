@@ -271,6 +271,12 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Talks & Workshops:
 
+2024-11: Talking about *"Mit Crossplane und ArgoCD in den GitOps-Himmel"* @ [ContainerConf / Continuous Lifecycle 2024 in Mannheim](https://www.continuouslifecycle.de/programm.php)
+
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_clcabrconf-crossplane-argocd-activity-7262814417258442755-HCJY) & [LinkedIn](https://www.linkedin.com/posts/jonashecht_continuouslifecycle-clcabrconf-mannheim-activity-7264596623417032723-4zuI)
+
+> Photos: [Flickr No.1](https://www.flickr.com/photos/dpunkt_verlag/54141736614/in/album-72177720321964689), [Flickr No.2](https://www.flickr.com/photos/dpunkt_verlag/54141412861/in/album-72177720321964689), [All Flickr Photos](https://www.flickr.com/photos/dpunkt_verlag/albums/72177720321964689/with/54141737564)
+
 2024-09: Talking about *"Multi-Cloud Platform Engineering mit Crossplane"* @ [Tech&Talk Meetup on 09/03/2024](https://www.meetup.com/tech-n-talk-frankfurt/events/302549906) @ [codecentric AG in Frankfurt](https://www.codecentric.de/)
 
 > Mentions: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7237043765285195776/) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7236849013239484416) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7237132040817549312/)
