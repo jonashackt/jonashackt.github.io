@@ -249,6 +249,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Online article posts:
 
+2024-12: [Combining practical Platform Engineering with Crossplane and ArgoCD](https://platformengineering.org/blog/platform-engineering-with-crossplane-and-argocd) @ [platformengineering.org](https://platformengineering.org/)
+
 2021-03: [Container-Images: Abschied vom Dockerfile](https://www.heise.de/hintergrund/Container-Images-Abschied-vom-Dockerfile-5997535.html) @ [heise developer](https://www.heise.de/developer/)
 
 2018-01: [Die hybdride Cloud mit Docker Swarm und Ansible (2/2)](https://www.heise.de/developer/artikel/Die-hybride-Cloud-mit-Docker-Swarm-und-Ansible-2-2-3929312.html) @ [heise developer](https://www.heise.de/developer/)
@@ -270,6 +272,12 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 
 ## Talks & Workshops:
+
+2024-12: Talking about [*"Multi-cloud Platform Engineering with Crossplane"*](https://platformengineering.org/events/mult-icloud-platform-engineering-with-crossplane) @ [PlatformEngineering.org Webinar Series](https://platformengineering.org/events)
+
+> Mentions: [Platform Engineers Berlin](https://www.meetup.com/de-DE/platform-engineers-berlin/events/304394523/), [Platform Engineers Munich](https://www.meetup.com/de-DE/platform-engineers-munich/events/304394528/), [LinkedIn](https://www.linkedin.com/posts/codecentric-ag_wir-kennen-die-herausforderungen-im-platform-activity-7264218307891761152-fF48)
+
+> Recording [available on Youtube](https://www.youtube.com/live/AaIeNStnuew)
 
 2024-11: Talking about *"Mit Crossplane und ArgoCD in den GitOps-Himmel"* @ [ContainerConf / Continuous Lifecycle 2024 in Mannheim](https://www.continuouslifecycle.de/programm.php)
 
