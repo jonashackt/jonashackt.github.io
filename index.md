@@ -276,6 +276,12 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Talks & Workshops:
 
+2025-01: Talking about *"Mit Crossplane und ArgoCD in den GitOps-Himmel"* @ [tech & talk in Dortmund](https://www.meetup.com/de-DE/codecentric-dortmund-tech-talk/events/304520864/)
+
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_meetup-community-dortmund-ugcPost-7285260499284328449-GBq7) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7284875449552306176/) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7282749579454820352/)
+
+> Recording [available on Youtube](https://www.youtube.com/live/eDqjIfWRSsE?si=OCr96rq9J86f_qIn)
+
 2024-12: Talking about [*"Multi-cloud Platform Engineering with Crossplane"*](https://platformengineering.org/events/mult-icloud-platform-engineering-with-crossplane) @ [PlatformEngineering.org Webinar Series](https://platformengineering.org/events)
 
 > Mentions: [platformengineering.org on LinkedIn](https://www.linkedin.com/posts/luca-galante_gitops-multicloud-platformengineering-activity-7270737330263445504-QNOA),  [Platform Engineers Berlin](https://www.meetup.com/de-DE/platform-engineers-berlin/events/304394523/), [Platform Engineers Munich](https://www.meetup.com/de-DE/platform-engineers-munich/events/304394528/), [LinkedIn](https://www.linkedin.com/posts/codecentric-ag_wir-kennen-die-herausforderungen-im-platform-activity-7264218307891761152-fF48)
