@@ -280,7 +280,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_meetup-community-dortmund-ugcPost-7285260499284328449-GBq7) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7284875449552306176/) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7282749579454820352/)
 
-> Recording [available on Youtube](https://www.youtube.com/live/eDqjIfWRSsE?si=OCr96rq9J86f_qIn)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eDqjIfWRSsE?si=soWeD6a0fsUhde0i&amp;start=5136" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 2024-12: Talking about [*"Multi-cloud Platform Engineering with Crossplane"*](https://platformengineering.org/events/mult-icloud-platform-engineering-with-crossplane) @ [PlatformEngineering.org Webinar Series](https://platformengineering.org/events)
 
@@ -380,7 +380,7 @@ and Molecule"* @ [DevOps Thüringen Meetup](https://www.meetup.com/de-DE/devopst
 
 ## About me
 
-![jonas_hecht_ganzklein]({{ site.url }}/assets/jonas_hecht_ganzklein.jpg)
+![jonas_crossplane_dortmund]({{ site.url }}/assets/jonas_crossplane_dortmund.jpg)
 
 I'am a [Spring Boot](https://projects.spring.io/spring-boot/) using guy, who loves [Ansible](https://www.ansible.com/) & is a CI/CD enthusiast. And I always try to write practical & comprehensible blog posts (as you can see above :) ).
 
