@@ -15,6 +15,12 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Printed articles:
 
+2025-04: Article about "GitOps mit Crossplane: Crossplane: Provisionierung in AWS und Azure" published in the [iX Magazin für professionelle Informationstechnik 02/2023](https://www.heise.de/select/ix/2025/5/) ([article link](https://www.heise.de/select/ix/2025/5/2429109471374307856))
+
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_jug-meetup-gitops-activity-7322963721432051712-ojLW))
+
+![]({{ site.url }}/assets/ix-2025-05-frontcover-gitops-crossplane-tutorial01.jpg)
+
 2023-11: Articles about "Deklarativ provisionieren: Crossplane hebt GitOps in die Multi-Cloud" & "Crossplane in der Praxis: IaC in AWS und Azure" published in the [iX Developer Cloud Native Special Herbst 2023](https://www.heise.de/select/ix/2023/14) ([first article link](https://www.heise.de/select/ix/2023/14/2322712211844746890) & [second article link](https://www.heise.de/select/ix/2023/14/2322712560958530730))
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_autumn-reading-ix-activity-7130828354349359104-7hg7), [X](https://x.com/jonashackt/status/1725086272799100934), [XING](https://www.xing.com/discover/detail-activities/6732620632.1b09ea)
