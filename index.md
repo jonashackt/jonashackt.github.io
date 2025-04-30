@@ -282,6 +282,11 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Talks & Workshops:
 
+2025-04: Talking about *"GitOps auf allen Ebenen: mit Crossplane & ArgoCD"* @ [Mastering GitOps 2025](https://www.mastering-gitops.de/#programm)
+
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_mastering-gitops-stabil-deployen-sicher-activity-7322888589711679489-z6V5)
+
+
 2025-04: Talking about *"Multi-Cloud Platform Engineering mit Crossplane & ArgoCD"* @ [JavaLand 2025 @ Nürburgring](https://meine.doag.org/events/javaland/2025/agenda/)
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_speakerdinner-gitops-platformengineering-activity-7312775458029207552-QGUs) & [LinkedIn](https://www.linkedin.com/posts/jonashecht_conference-nuerburgring-racetrack-activity-7313644241195315201-C14T)
