@@ -15,9 +15,15 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Printed articles:
 
-2025-04: Article about "GitOps mit Crossplane: Crossplane: Provisionierung in AWS und Azure" published in the [iX Magazin für professionelle Informationstechnik 02/2023](https://www.heise.de/select/ix/2025/5/) ([article link](https://www.heise.de/select/ix/2025/5/2429109471374307856))
+2025-06: Article about "GitOps mit Crossplane, Teil 2: Basisinstallation " published in the [iX Magazin für professionelle Informationstechnik 06/2025](https://www.heise.de/select/ix/2025/6/) ([article link](https://www.heise.de/select/ix/2025/6/2433816125590565541))
 
-> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_jug-meetup-gitops-activity-7322963721432051712-ojLW))
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_tutorial-crossplane-argocd-activity-7335295846546132992-sxE9))
+
+![]({{ site.url }}/assets/ix-2025-06-article.jpg)
+
+2025-04: Article about "GitOps mit Crossplane: Crossplane: Provisionierung in AWS und Azure" published in the [iX Magazin für professionelle Informationstechnik 05/2025](https://www.heise.de/select/ix/2025/5/) ([article link](https://www.heise.de/select/ix/2025/5/2429109471374307856))
+
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_jug-meetup-gitops-activity-7322963721432051712-ojLW)), [LinkedIn](https://www.linkedin.com/posts/codecentric-ag_crossplane-der-gamechanger-f%C3%BCr-infrastrukturmanagement-activity-7334112415539752960-PtRu)
 
 ![]({{ site.url }}/assets/ix-2025-05-frontcover-gitops-crossplane-tutorial01.jpg)
 
@@ -284,7 +290,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2025-04: Talking about *"GitOps auf allen Ebenen: mit Crossplane & ArgoCD"* @ [Mastering GitOps 2025](https://www.mastering-gitops.de/#programm)
 
-> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_mastering-gitops-stabil-deployen-sicher-activity-7322888589711679489-z6V5)
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_mastering-gitops-stabil-deployen-sicher-activity-7322888589711679489-z6V5) & [LinkedIn](https://www.linkedin.com/posts/matthiasparbel_mastering-gitops-so-gelingt-der-weg-von-activity-7313545883944448001-Iy95)
 
 
 2025-04: Talking about *"Multi-Cloud Platform Engineering mit Crossplane & ArgoCD"* @ [JavaLand 2025 @ Nürburgring](https://meine.doag.org/events/javaland/2025/agenda/)
