@@ -15,7 +15,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Printed articles:
 
-2025-06: Article about "GitOps mit Crossplane, Teil 2: Basisinstallation " published in the [iX Magazin für professionelle Informationstechnik 06/2025](https://www.heise.de/select/ix/2025/6/) ([article link](https://www.heise.de/select/ix/2025/6/2433816125590565541))
+2025-06: Article about "GitOps mit Crossplane, Teil 2: Basisinstallation" published in the [iX Magazin für professionelle Informationstechnik 06/2025](https://www.heise.de/select/ix/2025/6/) ([article link](https://www.heise.de/select/ix/2025/6/2433816125590565541))
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_tutorial-crossplane-argocd-activity-7335295846546132992-sxE9))
 
@@ -309,7 +309,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 > Recording [available on Youtube](https://www.youtube.com/live/AaIeNStnuew)
 
-2024-11: Talking about *"Mit Crossplane und ArgoCD in den GitOps-Himmel"* @ [ContainerConf / Continuous Lifecycle 2024 in Mannheim](https://www.continuouslifecycle.de/programm.php)
+2024-11: Talking about *"Mit Crossplane und ArgoCD in den GitOps-Himmel"* @ [ContainerConf / Continuous Lifecycle 2024 in Mannheim](https://clc-conference.eu/2024/veranstaltung-72528-0-mit-crossplane-und-argocd-in-den-gitops-himmel.html)
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_clcabrconf-crossplane-argocd-activity-7262814417258442755-HCJY) & [LinkedIn](https://www.linkedin.com/posts/jonashecht_continuouslifecycle-clcabrconf-mannheim-activity-7264596623417032723-4zuI)
 
