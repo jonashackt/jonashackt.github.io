@@ -211,10 +211,6 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 > Mentions: "Great article! The thought that IaC was code but did not get tests like real code never sat well with me. The next evolution with IaC, I feel, is this exact type of implementation. I look forward to your next article." [David_J_Eddy](https://twitter.com/David_J_Eddy/status/1075446494327652352) & "mega geil :) danke dir!" [Matyas Albert Nagy](https://twitter.com/albertmatyi/status/1071034289922412545)
 
-2018-07: [Spring Boot und Vue.js im eigenen Projekt praktisch nutzen - das Tutorial](https://jaxenter.de/spring-boot-vue-js-73384) on [JAXenter](https://jaxenter.de/)
-
-2018-07: [Spring Boot und Vue.js im eigenen Projekt praktisch nutzen - das Tutorial](https://entwickler.de/online/javascript/spring-boot-vue-js-579852076.html) on [entwickler.de](https://entwickler.de/)
-
 2018-05: [A Complete Setup of GitLab CI & Docker Using Vagrant & Ansible: HTTPS/Let’s Encrypt, Container Registry, Runners](https://blog.codecentric.de/en/2018/05/gitlab-ci-pipeline/)
 
 2018-04: [A Lovely Spring View: Spring Boot & Vue.js](https://blog.codecentric.de/en/2018/04/spring-boot-vuejs/)
@@ -267,6 +263,10 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 > Mentions: [codecentric on LinkedIn](https://www.linkedin.com/posts/codecentric-ag_practical-platform-engineering-in-action-activity-7270378375817400321-F91I)
 
 2021-03: [Container-Images: Abschied vom Dockerfile](https://www.heise.de/hintergrund/Container-Images-Abschied-vom-Dockerfile-5997535.html) @ [heise developer](https://www.heise.de/developer/)
+
+2018-07: [Spring Boot und Vue.js im eigenen Projekt praktisch nutzen - das Tutorial](https://jaxenter.de/spring-boot-vue-js-73384) on [JAXenter](https://jaxenter.de/)
+
+2018-07: [Spring Boot und Vue.js im eigenen Projekt praktisch nutzen - das Tutorial](https://entwickler.de/online/javascript/spring-boot-vue-js-579852076.html) on [entwickler.de](https://entwickler.de/)
 
 2018-01: [Die hybdride Cloud mit Docker Swarm und Ansible (2/2)](https://www.heise.de/developer/artikel/Die-hybride-Cloud-mit-Docker-Swarm-und-Ansible-2-2-3929312.html) @ [heise developer](https://www.heise.de/developer/)
 
