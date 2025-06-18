@@ -17,13 +17,15 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 2025-06: Article about "GitOps mit Crossplane, Teil 2: Basisinstallation" published in the [iX Magazin für professionelle Informationstechnik 06/2025](https://www.heise.de/select/ix/2025/6/) ([article link](https://www.heise.de/select/ix/2025/6/2433816125590565541))
 
-> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_tutorial-crossplane-argocd-activity-7335295846546132992-sxE9))
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_tutorial-crossplane-argocd-activity-7335295846546132992-sxE9)
 
 ![]({{ site.url }}/assets/ix-2025-06-article.jpg)
 
 2025-04: Article about "Tutorial GitOps mit Crossplane, Teil 1: Beyond CI/CD" published in the [iX Magazin für professionelle Informationstechnik 05/2025](https://www.heise.de/select/ix/2025/5/) ([article link](https://www.heise.de/select/ix/2025/5/2429109471374307856))
 
-> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_jug-meetup-gitops-activity-7322963721432051712-ojLW)), [LinkedIn](https://www.linkedin.com/posts/codecentric-ag_crossplane-der-gamechanger-f%C3%BCr-infrastrukturmanagement-activity-7334112415539752960-PtRu)
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_jug-meetup-gitops-activity-7322963721432051712-ojLW), [LinkedIn](https://www.linkedin.com/posts/codecentric-ag_crossplane-der-gamechanger-f%C3%BCr-infrastrukturmanagement-activity-7334112415539752960-PtRu)
+
+> The [full article](https://www.codecentric.de/wissens-hub/fachmedien/tutorial-gitops-mit-crossplane-teil-1-beyond-ci-cd?utm_campaign=Platform_Engineering&utm_content=393769162&utm_medium=social&utm_source=linkedin&hss_channel=lcp-276104) has been made available to [public by codecentric here](https://eu-central-1.graphassets.com/AiE4QoWSSiIQO3k152ugkz/cmb50uaw13h9q07uqgx23jirv)
 
 ![]({{ site.url }}/assets/ix-2025-05-frontcover-gitops-crossplane-tutorial01.jpg)
 
@@ -32,6 +34,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_autumn-reading-ix-activity-7130828354349359104-7hg7), [X](https://x.com/jonashackt/status/1725086272799100934), [XING](https://www.xing.com/discover/detail-activities/6732620632.1b09ea)
 
 ![]({{ site.url }}/assets/ix-developer-herbst2023-cloudnative-crossplane.jpg)
+
+2023-10: Article about "Crossplane: GitOps für die Multi-Cloud: Das große Tutorial für einen praktischen Einstieg in das Open-Source-Projekt" published in the [Softwerker Vol. 23](https://www.codecentric.de/wissens-hub/softwerker/softwerker-vol-23) in the [Softwerker](https://www.codecentric.de/wissens-hub/softwerker) magazine 
 
 2023-03: Article about "GitOps mit Crossplane: Crossplane: Provisionierung in AWS und Azure" published in the [iX Magazin für professionelle Informationstechnik 02/2023](https://www.heise.de/select/ix/2023/3/) ([article link](https://www.heise.de/select/ix/2023/3/2301817321782060678))
 
@@ -52,6 +56,8 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 > The article also made it on the frontcover:
 
 ![]({{ site.url }}/assets/ix-2023-02-frontcover-crossplane.jpg)
+
+2022-01: Article about "Es geht auch ohne Docker: Cloud-Native Buildpacks in GitLab CI auf Kubernetes-Basis" published in the [Softwerker Vol. 19](https://www.codecentric.de/wissens-hub/softwerker/softwerker-19) in the [Softwerker](https://www.codecentric.de/wissens-hub/softwerker) magazine 
 
 2021-09: Article about "Schöner Verpacken - Container Images: Abschied vom Dockerfile (Cloud Native Buildpacks/Paketo.io)" in the category "Qualitätssicherung" published in the [iX Developer "Besserer Code" Sommer 2021](https://www.heise.de/select/ix-special/archiv/2021/14) ([article link](https://www.heise.de/select/ix-special/archiv/2021/14/seite-70))
 
@@ -83,6 +89,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ![ix-2018-08]({{ site.url }}/assets/ix-2019-04.png)
 
+2018-10: Article about "Zwei zum Verlieben: Spring Boot und Vue.js im eigenen Projekt praktisch einsetzen" published in the [Softwerker Vol. 12](https://www.codecentric.de/wissens-hub/softwerker/softwerker-12) in the [Softwerker](https://www.codecentric.de/wissen/softwerker/) magazine 
 
 2018-09: Article about "Spring Boot und Vue.js" published in the ["Vue.js für alle. Wissenswertes für Einsteiger und Experten" entwickler.press shortcuts 09.2018](https://entwickler.de/press/shortcuts/vue-js-fuer-alle-wissenswertes-fuer-einsteiger-und-experten-579861468.html)
 
