@@ -15,7 +15,13 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## Printed articles:
 
-2025-06: Article about "GitOps mit Crossplane, Teil 2: Basisinstallation" published in the [iX Magazin für professionelle Informationstechnik 06/2025](https://www.heise.de/select/ix/2025/6/) ([article link](https://www.heise.de/select/ix/2025/6/2433816125590565541))
+2025-07: Article about "GitOps mit Crossplane, Teil 3: Provider" (series GitOps for Infrastructure Pt.3) published in the [iX Magazin für professionelle Informationstechnik 07/2025](https://www.heise.de/select/ix/2025/7/) ([article link](https://www.heise.de/select/ix/2025/7/2433816154587340006))
+
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_gitops-infrastructure-crossplane-activity-7351516788934778881-DKLQ)
+
+![]({{ site.url }}/assets/ix-2025-07-article.jpg)
+
+2025-06: Article about "GitOps mit Crossplane, Teil 2: Basisinstallation" (series GitOps for Infrastructure Pt.2) published in the [iX Magazin für professionelle Informationstechnik 06/2025](https://www.heise.de/select/ix/2025/6/) ([article link](https://www.heise.de/select/ix/2025/6/2433816125590565541))
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_tutorial-crossplane-argocd-activity-7335295846546132992-sxE9)
 
@@ -23,7 +29,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ![]({{ site.url }}/assets/ix-2025-06-article.jpg)
 
-2025-04: Article about "Tutorial GitOps mit Crossplane, Teil 1: Beyond CI/CD" published in the [iX Magazin für professionelle Informationstechnik 05/2025](https://www.heise.de/select/ix/2025/5/) ([article link](https://www.heise.de/select/ix/2025/5/2429109471374307856))
+2025-04: Article about "Tutorial GitOps mit Crossplane, Teil 1: Beyond CI/CD" (series GitOps for Infrastructure Pt.1) published in the [iX Magazin für professionelle Informationstechnik 05/2025](https://www.heise.de/select/ix/2025/5/) ([article link](https://www.heise.de/select/ix/2025/5/2429109471374307856))
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_jug-meetup-gitops-activity-7322963721432051712-ojLW), [LinkedIn](https://www.linkedin.com/posts/codecentric-ag_crossplane-der-gamechanger-f%C3%BCr-infrastrukturmanagement-activity-7334112415539752960-PtRu)
 
