@@ -19,11 +19,15 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_gitops-infrastructure-crossplane-activity-7351516788934778881-DKLQ)
 
+> The [full article](https://www.codecentric.de/wissens-hub/fachmedien/tutorial-gitops-mit-crossplane-teil3-provider) has been made available to [public by codecentric here](https://eu-central-1.graphassets.com/AiE4QoWSSiIQO3k152ugkz/cmd7b3k88auda06ujk551d6uk)
+
 ![]({{ site.url }}/assets/ix-2025-07-article.jpg)
 
 2025-06: Article about "GitOps mit Crossplane, Teil 2: Basisinstallation" (series GitOps for Infrastructure Pt.2) published in the [iX Magazin für professionelle Informationstechnik 06/2025](https://www.heise.de/select/ix/2025/6/) ([article link](https://www.heise.de/select/ix/2025/6/2433816125590565541))
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_tutorial-crossplane-argocd-activity-7335295846546132992-sxE9)
+
+> The [full article](https://www.codecentric.de/wissens-hub/fachmedien/tutorial-gitops-crossplane-basisinstallation) has been made available to [public by codecentric here](https://eu-central-1.graphassets.com/AiE4QoWSSiIQO3k152ugkz/cmdx8fiaj4fra08tbwi37d18y)
 
 > The article (again) made it on the frontcover:
 
@@ -33,7 +37,7 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 > Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_jug-meetup-gitops-activity-7322963721432051712-ojLW), [LinkedIn](https://www.linkedin.com/posts/codecentric-ag_crossplane-der-gamechanger-f%C3%BCr-infrastrukturmanagement-activity-7334112415539752960-PtRu)
 
-> The [full article](https://www.codecentric.de/wissens-hub/fachmedien/tutorial-gitops-mit-crossplane-teil-1-beyond-ci-cd?utm_campaign=Platform_Engineering&utm_content=393769162&utm_medium=social&utm_source=linkedin&hss_channel=lcp-276104) has been made available to [public by codecentric here](https://eu-central-1.graphassets.com/AiE4QoWSSiIQO3k152ugkz/cmb50uaw13h9q07uqgx23jirv)
+> The [full article](https://www.codecentric.de/wissens-hub/fachmedien/tutorial-gitops-mit-crossplane-teil-1-beyond-ci-cd) has been made available to [public by codecentric here](https://eu-central-1.graphassets.com/AiE4QoWSSiIQO3k152ugkz/cmb50uaw13h9q07uqgx23jirv)
 
 > The article made it on the frontcover:
 
