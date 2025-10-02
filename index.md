@@ -146,6 +146,10 @@ Come and meet me on an upcoming Meetup in Thüringen! Choose your flavour: [Java
 
 ## blog.codecentric.de posts:
 
+2025-10: [Using Environment Variables with the Cloud Native Buildpacks lifecycle](https://www.codecentric.de/en/knowledge-hub/blog/cloud-native-buildpacks-lifecycle-environment-variables)
+
+> Mentions: [LinkedIn](https://www.linkedin.com/posts/jonashecht_ci-kubernetes-container-activity-7379504140374155265-gK_l) & [X.com](https://x.com/jonashackt/status/1973739830979989685)
+
 2024-09: [Using External Secrets with Crossplane & ArgoCD](https://www.codecentric.de/wissens-hub/blog/crossplane-argocd-external-secrets)
 
 > Mentions: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7239984835140755456/) & [LinkedIn](https://www.linkedin.com/posts/jonashecht_externalsecrets-crossplane-argocd-activity-7246398363074535425-bZAf) & [X.com](https://x.com/jonashackt/status/1840749628280492479)
